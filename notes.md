@@ -8,3 +8,4 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Overview of Research]({{ site.baseurl }}/data/notes/Research.pdf)
+* [Module 3: Research Paradigms]({{ site.baseurl }}/data/notes/Paradigms.pdf)

@@ -16,4 +16,5 @@ exclude_from_nav: false
 ---
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Monday, 9/26/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 10/9 by 5:0 PM ; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 

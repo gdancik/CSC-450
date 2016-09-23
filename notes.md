@@ -11,3 +11,5 @@ exclude_from_nav: false
 * [Module 3: Research Paradigms]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
 * [Sample Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
+* [Module 5: Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf)
+	* [Example Proposal]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf)

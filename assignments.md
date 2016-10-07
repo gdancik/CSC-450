@@ -16,5 +16,5 @@ exclude_from_nav: false
 
 ---
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/) 
-* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/10 by 1:00PM ; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/10 by 2:00PM ; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 

@@ -15,3 +15,4 @@ exclude_from_nav: false
 	* [Example Proposal]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf)
 * [Module 6: Lit Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 	* [Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf)
+* [Module 7: The Research Article]({{ site.baseurl }}/data/notes/Article.pdf)

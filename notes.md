@@ -13,3 +13,5 @@ exclude_from_nav: false
 * [Sample Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 5: Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf)
 	* [Example Proposal]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf)
+* [Module 6: Lit Review]({{ site.baseurl }}/data/notes/Lit.pdf)
+	* [Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf)

@@ -17,4 +17,4 @@ exclude_from_nav: false
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/10 by 2:00PM ; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 
 ---
-* [Lit Review and Outline]({{ site.baseurl }}/data/hw/LitAndOutline.pdf) (Due: Wednesday, 11/2/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/) 
+* [Lit Review and Outline]({{ site.baseurl }}/data/hw/LitAndOutline.pdf) (Due: Wednesday, 10/28/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/) 

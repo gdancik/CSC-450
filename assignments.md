@@ -13,9 +13,9 @@ exclude_from_nav: false
 * [FB Study Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 9/16, read the article and answer the questions on Blackboard. (Due: Friday, 9/16/16)
 * {% include hwFile.html hwLabel="Article Discussion - FB Article" hwFile= "Evaluation-FB.docx" %} (In class assignment)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Monday, 9/26/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
-* [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/) 
+* [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/10 by 2:00PM ; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 
 ---
-* [Lit Review and Outline]({{ site.baseurl }}/data/hw/LitAndOutline.pdf) (Due: Wednesday, 10/28/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)
+* [Lit Review and Outline]({{ site.baseurl }}/data/hw/LitAndOutline.pdf) (Due: Wednesday, 10/28/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
 	* Note that your Lit Review must reference at least 8 research articles (the assignment has been updated to reflect this) 

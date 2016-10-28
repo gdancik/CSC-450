@@ -20,4 +20,5 @@ exclude_from_nav: false
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (Due: Friday, 10/28/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
 
 ***
+* [Abstract]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 11/18/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))

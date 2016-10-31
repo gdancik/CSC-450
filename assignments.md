@@ -21,4 +21,5 @@ exclude_from_nav: false
 
 ***
 * [Abstract]({{ site.baseurl }}/data/hw/Abstracts.docx) 
+* [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/)) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 11/18/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))

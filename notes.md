@@ -16,3 +16,4 @@ exclude_from_nav: false
 * [Module 6: Lit Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 	* [Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf)
 * [Module 7: The Research Article]({{ site.baseurl }}/data/notes/article.pdf)
+* [Module 8: The Research Presentation (example)]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)

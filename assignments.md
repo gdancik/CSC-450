@@ -25,5 +25,5 @@ exclude_from_nav: false
 
 ***
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 12/16/16; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 12/16/16 by 2:00 PM; submit through [Blackboard](https://ct-ecsu.blackboard.com/webapps/login/))
 	* Rubric updated as follows: Track Changes or Highlighting should be used for changes since the rough draft. 

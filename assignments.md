@@ -3,7 +3,8 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: true 
+exclude_from_nav: false 
 ---
 
-* [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion on 9/9, read the article and answer the questions on Blackboard. (Due: Friday, 9/9/16)
+* [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion on 1/27, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com). (Due: Friday, 1/27/17)
+* [Biography and Potential Topic]({{ site.baseurl }}/data/hw/Bio-and-Potential-Topic.pdf) (Due: Monday, 1/30/17)

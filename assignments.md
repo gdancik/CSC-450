@@ -14,3 +14,4 @@ exclude_from_nav: false
 ***
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 2/03, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 2/03/17)
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
+* [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)

@@ -13,8 +13,8 @@ exclude_from_nav: false
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 2/03, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 2/03/17)
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)
+* [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 2/10/17)
 
 ***
-* [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 2/10/17)
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting-Dancik.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 2/24/17)

@@ -16,6 +16,6 @@ exclude_from_nav: false
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 2/10/17)
 
 ***
-* [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 2/24/17)
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/3/17)

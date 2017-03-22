@@ -19,4 +19,5 @@ exclude_from_nav: false
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/3/17; submit through [Blackboard](http://easternct.blackboard.com))
 
 ***
+* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docs) (in-class assignment, 3/22)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 3/29) 

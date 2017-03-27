@@ -17,3 +17,4 @@ exclude_from_nav: false
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 

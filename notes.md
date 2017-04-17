@@ -19,3 +19,4 @@ exclude_from_nav: false
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
+* [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 

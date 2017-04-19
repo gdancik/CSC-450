@@ -20,3 +20,4 @@ exclude_from_nav: false
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
+* [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 

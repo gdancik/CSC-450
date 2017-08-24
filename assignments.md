@@ -3,11 +3,16 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: false 
+exclude_from_nav: true 
 ---
 
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (1/23 in-class assignment)
-* [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion on 1/27, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 1/27/17)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment)
+    * CSC-450-01: in-class assignment for 9/01/17
+    * CSC-450-02: in-class assignment for 9/06/17
+* [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link.
+    * CSC-450-01: Due Wednesday, 9/6  
+    * CSC-450-02: Due Friday, 9/8 
+{% comment %}
 * [Evaluation of CA Traffic Article]({{ site.baseurl }}/data/hw/Evaluation-CA.docx) (Due: in-class assignment)
 * [Biography and Potential Topic]({{ site.baseurl }}/data/hw/Bio-and-Potential-Topic.pdf) (Due: Monday, 1/30/17)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 2/03, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 2/03/17)
@@ -27,3 +32,4 @@ exclude_from_nav: false
 
 ***
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 5/10/17 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+{% endcomment %}

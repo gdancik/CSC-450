@@ -7,6 +7,8 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+
+{% comment %}
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
@@ -22,3 +24,4 @@ exclude_from_nav: false
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf) 
+{% endcomment %}

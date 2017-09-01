@@ -11,8 +11,8 @@ exclude_from_nav: false
     * CSC-450-01: in-class assignment for 9/06/17
 * Article assignment for CSC-450-02 will be posted soon
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf)
-    * CSC-450-02: due Monday, 9/11/17
-    * CSC-450-01: due Wednesday, 9/20/17
+    * CSC-450-02: Due Monday, 9/11/17
+    * CSC-450-01: Due Wednesday, 9/20/17
 {% comment %}
 * [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link.
     * CSC-450-01: Due Wednesday, 9/6  

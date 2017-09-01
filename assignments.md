@@ -6,10 +6,15 @@ order: 3
 exclude_from_nav: false 
 ---
 
+<style>
+.two {background-color:yellow}
+.one {background-color:lightgray}
+</style>
+
 * Article assignment for CSC-450-02 will be posted soon
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf)
-    * CSC-450-02: Due Monday, 9/11/17
-    * CSC-450-01: Due Wednesday, 9/20/17
+    <ul class = "two"> CSC-450-02: Due Monday, 9/11/17 </ul>
+    <ul class = "one"> CSC-450-01: Due Wednesday, 9/20/17 </ul>
 {% comment %}
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment)
     * CSC-450-02: in-class assignment for 9/01/17

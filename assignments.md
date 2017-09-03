@@ -15,7 +15,7 @@ exclude_from_nav: false
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf)
     * CSC-450-02: Due Monday, 9/11/17
     {: .two}
-    * CSC-450-01: Due Wednesday, 9/20/17
+    * CSC-450-01: Due Wednesday, 9/13/17
     {: .one}
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (these will be posted by 9/4).
     * CSC-450-02: Due Friday, 9/8

@@ -172,6 +172,23 @@ pre {
     }
 }
 
+.wrapper2 {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 0));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 0));
+    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit / 4;
+    padding-left: $spacing-unit / 4;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 4;
+        padding-left: $spacing-unit / 4;
+    }
+}
 
 
 /**

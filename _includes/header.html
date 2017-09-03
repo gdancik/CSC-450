@@ -22,14 +22,31 @@
         {% for my_page in sorted_pages %}
           {% unless my_page.exclude_from_nav %}
             {% if my_page.title %}
-		{% if page.title == my_page.title %}
-                <a class = "page-link" style = "background: darkblue; color: white" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-		{% else %}
-              <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-		{% endif %}
+                {% if page.title == my_page.title %}
+                    <a class = "page-link" style = "background: darkblue; color: white" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+		        {% else %}
+                    <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+		        {% endif %}
+
             {% endif %}
           {% endunless %}
         {% endfor %}
+
+    <div class = "dropdown">
+
+    {% if page.title contains "Assignments" %}
+    <a style="background:darkblue; color: white" href = "#">Assignments</a>
+    {% else %}
+    <a href = "#">Assignments</a>
+    {% endif %}
+    <div class ="dropdown-content">
+        <a href = "/CSC-450/assignments01">CSC-450-01 (MW, 4-5:15) </a>
+        <a href = "/CSC-450//assignments02">CSC-450-02 (MWF, 1-1:50)</a>
+    </div>
+    </div>
+
+    &nbsp;&nbsp; &nbsp;&nbsp;
+
 	<a style = "color: black; background: white;" 
 		href = "http://gdancik.github.io">All Courses </a>
       </div>

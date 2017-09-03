@@ -1,30 +1,16 @@
 ---
 layout: page
-title: Assignments 
-permalink: /assignments/
+title: Assignments for MW 4-5:15 
+titleDisplay: Assignments (<span style = 'background-color:yellow'>MW 4-5:15, CSC 450-01 section</span>) 
+permalink: /assignments01/
 order: 3
-exclude_from_nav: false 
+exclude_from_nav: true 
 ---
 
-<style>
-.two {background-color:yellow}
-.one {background-color:lightgray}
-</style>
-
-* Article assignment for CSC-450-02 will be posted soon
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf)
-    * CSC-450-02: Due Monday, 9/11/17
-    {: .two}
-    * CSC-450-01: Due Wednesday, 9/13/17
-    {: .one}
-* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (these will be posted by 9/4).
-    * CSC-450-02: Due Friday, 9/8
-    {: .two}  
-    * CSC-450-01: Due Wednesday, 9/11 (will be assigned in class on 9/6) 
-    {: .one}  
-
-
+* There are currently no assignments
 {% comment %}
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Wednesday, 9/13/17)
+* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (these will be posted by 9/4). (Due: Wednesday, 9/11/17)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment)
     * CSC-450-02: in-class assignment for 9/01/17
     * CSC-450-01: in-class assignment for 9/06/17

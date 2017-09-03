@@ -41,13 +41,13 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 4;
 //     }
 // }
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
-
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -56,3 +56,41 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.dropdown a {
+    color: black;
+}
+
+.dropdown {
+        position: relative;
+        display: inline-block;
+        height: 50%;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    font-size: 80%;
+}
+
+.dropdown a:hover {
+    color: white;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 140%;
+    background-color: lightblue;
+    padding: 0px;
+}
+
+.dropdown-content a:hover {color: white}
+

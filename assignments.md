@@ -13,15 +13,21 @@ exclude_from_nav: false
 
 * Article assignment for CSC-450-02 will be posted soon
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf)
-    <ul class = "two"> CSC-450-02: Due Monday, 9/11/17 </ul>
-    <ul class = "one"> CSC-450-01: Due Wednesday, 9/20/17 </ul>
+    * CSC-450-02: Due Monday, 9/11/17
+    {: .two}
+    * CSC-450-01: Due Wednesday, 9/20/17
+    {: .one}
+* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (these will be posted by 9/4).
+    * CSC-450-02: Due Friday, 9/8
+    {: .two}  
+    * CSC-450-01: Due Wednesday, 9/11 (will be assigned in class on 9/6) 
+    {: .one}  
+
+
 {% comment %}
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment)
     * CSC-450-02: in-class assignment for 9/01/17
     * CSC-450-01: in-class assignment for 9/06/17
-* [CA Traffic Article]({{ site.baseurl }}/data/hw/Finner_and_Beauregard.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link.
-    * CSC-450-01: Due Wednesday, 9/6  
-    * CSC-450-02: Due Friday, 9/8 
 * [Evaluation of CA Traffic Article]({{ site.baseurl }}/data/hw/Evaluation-CA.docx) (Due: in-class assignment)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 2/03, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 2/03/17)
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)

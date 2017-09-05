@@ -8,9 +8,8 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
-
-{% comment %}
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
+{% comment %}
 * [Module 4: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 6: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 

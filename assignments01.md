@@ -7,9 +7,9 @@ order: 3
 exclude_from_nav: true 
 ---
 
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/09/17)
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (Due: 9/09/17)
-* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Wednesday, 9/11/17)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/11/17)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (Due: 9/11/17)
+* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Wednesday, 9/13/17)
 {% comment %}
     * CSC-450-02: in-class assignment for 9/01/17
     * CSC-450-01: in-class assignment for 9/06/17

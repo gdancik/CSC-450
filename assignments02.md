@@ -12,10 +12,9 @@ exclude_from_nav: true
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/6/17)
 <hr>
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/11/17)
-
+* [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 9/15/17)
 
 {% comment %}
-* [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion on 2/03, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link. (Due: Friday, 2/03/17)
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 2/10/17)

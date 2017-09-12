@@ -10,8 +10,8 @@ exclude_from_nav: true
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 9/8/17)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/6/17)
-<hr>
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/11/17)
+<hr>
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 9/15/17)
 
 {% comment %}

@@ -16,7 +16,7 @@ exclude_from_nav: true
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindingArticles.pdf) (in-class assignment, 9/13/17)
 <hr>
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 9/22/17)
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 2/29/17; submit through [Blackboard](http://easternct.blackboard.com))
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/29/17; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 

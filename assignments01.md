@@ -11,13 +11,14 @@ exclude_from_nav: true
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Wednesday, 9/13/17)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/11/17, due 9/13/17)
+* [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Monday, 9/18/17)
+<hr>
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Monday, 9/25/17)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 2/29/17; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 
 {% comment %}
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindingArticles01.pdf) (in-class assignment, 9/13/17)
-* [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Monday, 9/18/17)
 * [Evaluation of CA Traffic Article]({{ site.baseurl }}/data/hw/Evaluation-CA.docx) (Due: in-class assignment)
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)

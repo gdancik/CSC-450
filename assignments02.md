@@ -18,6 +18,7 @@ exclude_from_nav: true
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 9/22/17)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/29/17; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Research Proposal and Reflection]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/9/17, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)

@@ -12,6 +12,6 @@ order: 1
 * [Selecting a Research Topic]({{ site.baseurl }}/data/info/ChoiceOfTopic.pdf)
 * [Example Research Projects]({{ site.baseurl }}/data/info/ResearchIdeas.pdf)
 * [Group Information]({{ site.baseurl }}/data/info/GroupInformation.pdf)
-{% comment %}
 * [Human Subjects Research]({{ site.baseurl }}/data/info/HumanSubjects.pdf)
+{% comment %}
 {% endcomment %}

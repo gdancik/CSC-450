@@ -18,9 +18,8 @@ exclude_from_nav: false
     * [Feedback on Lit Review]({{ site.baseurl }}/data/notes/LitFeedback.pdf)
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-{% comment %}
-([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+{% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 

@@ -20,6 +20,7 @@ exclude_from_nav: true
     * Resubmissions will be due Friday, 10/13 by 4:00 PM
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal and Reflection]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/9/17, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/25/17)
 {% comment %}
 
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)

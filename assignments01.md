@@ -21,9 +21,9 @@ exclude_from_nav: true
 * [Research Proposal and Reflection]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/9/17, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/25/17)
 <hr>
+* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/25)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 11/01/17) 
 {% comment %}
-* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 3/22)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 3/29/31) 
 * [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (Due date: Monday, 4/3/17; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 4/12/17; submit through [Blackboard](http://easternct.blackboard.com)) 

@@ -20,7 +20,7 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
-* [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
+* [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([example]({{ site.baseurl }}/data/notes/example.zip)) 
 {% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 

@@ -23,10 +23,10 @@ exclude_from_nav: true
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 11/01/17)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Friday, 11/03/17) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/1/17) 
+* [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (Due date: in-class assignment, 11/6/17) 
 <hr>
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/17/17; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (Due date: in-class assignment, 11/6/17) 
 {% comment %}
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)

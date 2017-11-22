@@ -34,6 +34,7 @@ exclude_from_nav: true
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/3/17; submit through [Blackboard](http://easternct.blackboard.com))
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - You may attend at least one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) or you may attend the poster session between 12:30 - 1:30, and e-mail me a picture of you in front of one of the posters by 5:00 PM Friday 
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
+    * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentation02.pdf)
 
 ***
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 5/10/17 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 

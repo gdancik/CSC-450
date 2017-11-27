@@ -22,6 +22,7 @@ exclude_from_nav: false
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([example]({{ site.baseurl }}/data/notes/example.zip)) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
+* [Module 12: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
 {% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf) 

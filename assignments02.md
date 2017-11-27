@@ -29,6 +29,7 @@ exclude_from_nav: true
 <hr>
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule02.pdf)
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/13/17 by 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/17)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)
@@ -37,5 +38,4 @@ exclude_from_nav: true
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 ***
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 5/10/17 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% endcomment %}

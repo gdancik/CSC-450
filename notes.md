@@ -23,7 +23,9 @@ exclude_from_nav: false
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([example]({{ site.baseurl }}/data/notes/example.zip)) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
 * [Module 12: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
+* Wrap-Up
+    * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
+    * CSC 450-02 (coming soon)
 {% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
-* [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf) 
 {% endcomment %}

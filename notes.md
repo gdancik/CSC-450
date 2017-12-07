@@ -25,7 +25,7 @@ exclude_from_nav: false
 * [Module 12: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
-    * CSC 450-02 (coming soon)
+    * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 
 {% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 {% endcomment %}

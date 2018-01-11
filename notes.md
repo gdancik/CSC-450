@@ -7,6 +7,7 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %}
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
@@ -26,6 +27,5 @@ exclude_from_nav: false
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 
-{% comment %}
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
 {% endcomment %}

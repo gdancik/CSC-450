@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Assignments for MW 4-5:15 
-titleDisplay: Assignments (<span style = 'background-color:yellow'>MW 4-5:15, CSC 450-01 section</span>) 
+title: Assignments 
+titleDisplay: Assignments 
 permalink: /assignments01/
 order: 3
 exclude_from_nav: true 
 ---
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/11/17)
+
+{% comment %}
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Wednesday, 9/13/17)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/11/17, due 9/13/17)
@@ -30,7 +32,6 @@ exclude_from_nav: true
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule01.pdf)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 12/11/17 by 7:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * Attend [CREATE](http://www.easternct.edu/create/files/2014/12/FINAL-CREATE-2017-Program.pdf) - You may attend at least one of the CS talks between 9:30 - 10:30 (I will bring a sheet for you to sign) or you may attend the poster session between 12:30 - 1:30, and e-mail me a picture of you in front of one of the posters by 5:00 PM Friday 
 
 ***

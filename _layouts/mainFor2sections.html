@@ -1,0 +1,39 @@
+---
+layout: defaultWrapper2
+---
+
+<style>
+
+.center {
+    text-align: center;
+}
+
+td, th {
+    text-align: left;
+    padding: 0px;
+    border: 1px solid;
+    margin: 0px;
+    height: 10px;
+}
+
+
+</style>
+
+<article class="post">
+  <div class="post-content">
+    <h3> {{ site.course }} Announcements </h3>
+
+    <div style = "overflow-y: scroll; height: 250px; border: 1px">
+    <table style="border-collapse: collapse">
+    <th width=50% class = "center" style = "background-color:darkblue; color: white"> CSC 450-01, MW 4-5:15 </th> 
+    <th width = 50% class = "center" style = "background-color:darkblue; color: white"> CSC 450-02, MWF 1-1:50 </th> 
+    {{ content }}
+    </table>
+    </div>
+<p><p style = 'color:darkred'>
+Last updated: {{ site.time | date: '%m-%d-%y at %H:%M:%S' }}
+<p><p>
+
+  </div>
+
+</article>

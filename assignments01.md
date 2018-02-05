@@ -14,7 +14,7 @@ exclude_from_nav: false
 <hr>
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: <strike>Friday, 2/02/18</strike> Monday, 2/5/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB-01.docx)
-* [Find an Article ]({{ site.baseurl }}/data/hw/FindingArticles.pdf) (in-class assignment, 2/5/18)
+* [Find an Article ]({{ site.baseurl }}/data/hw/FindArticles.pdf) (in-class assignment, 2/5/18)
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Monday, 2/12/18)
 {% comment %}
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/29/18; submit through [Blackboard](http://easternct.blackboard.com))

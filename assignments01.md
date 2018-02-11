@@ -17,10 +17,10 @@ exclude_from_nav: false
 <hr>
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Monday, 2/12/18)
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 2/23/18, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/02/18, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/29/18; submit through [Blackboard](http://easternct.blackboard.com))
     * Resubmissions will be due Friday, 10/13 by 4:00 PM
-* [Research Proposal and Reflection]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/9/18, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/25/18)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/25)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 11/01/18) 

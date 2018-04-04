@@ -21,11 +21,11 @@ exclude_from_nav: false
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 3/21/18)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 3/23/18)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 3/28/18) 
-<hr>
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due date: Wednesday, 4/04/18) 
+<hr>
+* [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 4/4/18) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 4/11/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
-* [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 11/6/18) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/01/18) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 <hr>

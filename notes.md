@@ -20,8 +20,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
+* [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
 {% comment %}
-* [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([example]({{ site.baseurl }}/data/notes/example.zip)) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
 * [Module 12: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
 * Wrap-Up

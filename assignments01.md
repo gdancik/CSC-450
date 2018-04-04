@@ -22,8 +22,8 @@ exclude_from_nav: false
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 3/23/18)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 3/28/18) 
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due date: Wednesday, 4/04/18) 
-<hr>
 * [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 4/4/18) 
+<hr>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 4/11/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/01/18) 

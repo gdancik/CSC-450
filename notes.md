@@ -8,6 +8,8 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
+
+{% comment %}
 * [Module 3: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
@@ -23,7 +25,6 @@ exclude_from_nav: false
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
 * [Module 12: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_Swirl.pdf) 
-{% comment %}
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 

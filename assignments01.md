@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Assignments 
-titleDisplay: Assignments 
+titleDisplay: Assignments (<span style = 'background-color:yellow'>MW 4-5:15, CSC 450-01 section</span>) 
 permalink: /assignments01/
 order: 3
 exclude_from_nav: true 
 ---
-
+* No assignments at this time
+{% comment %}
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Friday, 1/26/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 1/24/18)
@@ -26,7 +27,6 @@ exclude_from_nav: true
 <hr>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 4/11/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/01/18) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 <hr>

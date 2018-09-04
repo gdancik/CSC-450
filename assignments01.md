@@ -6,12 +6,13 @@ permalink: /assignments01/
 order: 3
 exclude_from_nav: true 
 ---
-* No assignments at this time
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/05/18)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 9/10/18)
+* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Friday, 9/14/18)
+
+
 {% comment %}
-* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Friday, 1/26/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 1/24/18)
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: <strike>Monday, 1/29/18</strike> Wednesday, 1/31/18)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: <strike>Friday, 2/02/18</strike> Monday, 2/5/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB-01.docx)
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindArticles.pdf) (Due: Friday,  2/9/18)

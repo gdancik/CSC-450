@@ -13,11 +13,11 @@ exclude_from_nav: true
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindArticles.pdf) (in-class assignment, 9/12/18)
 <hr>
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Wednesday, 9/19/18)
+    * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 9/21/18 by 4:00 PM)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/28/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-    * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB-01.docx)
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/02/18, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 3/21/18)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 3/23/18)

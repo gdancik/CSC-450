@@ -13,12 +13,11 @@ exclude_from_nav: false
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Module 4: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-* [Module 5: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
+* [Module 6: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
-{% comment %}
-    * [Feedback on Lit Review]({{ site.baseurl }}/data/notes/LitFeedback.pdf) 
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+{% comment %}
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
@@ -28,4 +27,5 @@ exclude_from_nav: false
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
+    * [Feedback on Lit Review]({{ site.baseurl }}/data/notes/LitFeedback.pdf) 
 {% endcomment %}

@@ -15,12 +15,11 @@ exclude_from_nav: true
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 9/14/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 * [Article Evaluation]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 9/21/18)
-<hr>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/28/18; submit through [Blackboard](http://easternct.blackboard.com))
+<hr>
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/5/17, at 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-    * Resubmissions will be due Friday, 10/13 by 4:00 PM
-* [Research Proposal and Reflection]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/9/17, at 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/25/18)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 11/01/18)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Friday, 11/03/18) 

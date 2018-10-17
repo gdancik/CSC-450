@@ -17,8 +17,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-{% comment %}
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+{% comment %}
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 

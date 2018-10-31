@@ -19,16 +19,16 @@ exclude_from_nav: true
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/05/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/17/17 by 4:00 PM)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/22/18)
-<hr>
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 10/31/18) 
+<hr>
+* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 10/31/18) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due date: Wednesday, 4/04/18) 
 * [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 4/4/18) 
 <hr>
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 4/11/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/01/18) 
 <hr>
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule01.pdf)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 12/11/18 by 7:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 

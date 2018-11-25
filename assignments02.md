@@ -27,9 +27,9 @@ exclude_from_nav: true
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/16/17; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule02.pdf)
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/13/17 by 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/14/18 by 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+{% comment %}
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/18)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/3/17; submit through [Blackboard](http://easternct.blackboard.com))

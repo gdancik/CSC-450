@@ -7,6 +7,7 @@ order: 3
 exclude_from_nav: true 
 ---
 
+{% comment %}
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 9/07/18)
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 9/07/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
@@ -29,7 +30,6 @@ exclude_from_nav: true
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule02.pdf)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/12/18 by 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * [Finding an Abstract]({{ site.baseurl }}/data/hw/FindAbstracts.pdf) (Due: Monday, 2/06/18)
 * [Evaluation of FB Article]({{ site.baseurl }}/data/hw/Evaluation-FB.docx) (Due: in-class assignment)
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 3/3/17; submit through [Blackboard](http://easternct.blackboard.com))

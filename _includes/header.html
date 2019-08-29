@@ -32,13 +32,19 @@
           {% endunless %}
         {% endfor %}
 
+    <!-- use for two sections -->
+    {% comment% }
+
     <div class = "dropdown">
 
-    {% if page.title contains "Assignments" %}
+
+    {% if page.title contains "Assignments" %} 
+
     <a style="background:darkblue; color: white" href = "#">Assignments</a>
     {% else %}
-    <!-- <a href = "#">Assignments</a> -->
+    <a href = "#">Assignments</a> 
     {% endif %}
+    
 
     <div class ="dropdown-content">
         <a href = "/CSC-450/assignments01">CSC-450-01 (MW, 4-5:15) </a>
@@ -46,9 +52,8 @@
     </div>
 
     </div>
-
     &nbsp;&nbsp; &nbsp;&nbsp;
-
+    {% endcomment %}
 	<a style = "color: black; background: white;" 
 		href = "http://gdancik.github.io">All Courses </a>
       </div>

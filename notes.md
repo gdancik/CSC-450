@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Course Notes 
+titleDisplay: Course Notes
 permalink: /notes/
 order: 2
 exclude_from_nav: false

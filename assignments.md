@@ -1,14 +1,65 @@
 ---
 layout: page
 title: Assignments 
-titleDisplay: Assignments (<span style = 'background-color:yellow'>MW 4-5:15, CSC 450-01 section</span>) 
-permalink: /assignments01/
+titleDisplay: Assignments 
+permalink: /assignments/
 order: 3
-exclude_from_nav: true 
+exclude_from_nav: false 
 ---
 
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
-Due: Friday, 9/6/19 
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+</style>
+
+
+<table style = 'width:100%'>
+<tr style = 'border-bottom: 1px solid black'>
+<th style = 'width:50%'><br>Assignment </th>
+<th style = 'width:25%'>CSC 450-01<br>(MW 4:00 - 5:15) </th>
+<th style = 'width:25%'>CSC 450-02<br>(MWF 1:00 - 1:50) </th>
+</tr>
+
+<tr>
+<td>
+<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
+[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
+</span></li></ul>
+</td> 
+<td> (not yet assigned)  </td>
+<td> Due: Friday, 9/6/19 </td>
+</tr>
+
+{% comment %}
+<tr>
+<td>
+<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
+[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
+</span></li></ul>
+</td> 
+<td> (not yet assigned)  </td>
+<td> Due: Friday, 9/6/19 </td>
+</tr>
+
+<tr>
+<td>
+<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
+[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
+</span></li></ul>
+</td> 
+<td> (not yet assigned)  </td>
+<td> Due: Friday, 9/6/19 </td>
+</tr>
+
+
+{% endcomment %}
+
+
+
+</table>
 
 
 

@@ -13,37 +13,45 @@ table, th, td {
   border-collapse: collapse;
   text-align: center;
 }
+
+td.left {
+    text-align: left;
+}
+
+.due {
+    background-color: yellow
+}
+
 </style>
 
 
 <table style = 'width:100%'>
 <tr style = 'border-bottom: 1px solid black'>
-<th style = 'width:50%'><br>Assignment </th>
-<th style = 'width:25%'>CSC 450-01<br>(MW 4:00 - 5:15) </th>
-<th style = 'width:25%'>CSC 450-02<br>(MWF 1:00 - 1:50) </th>
+<th style = 'width:55%'><br>Assignment </th>
+<th style = 'width:22.5%'>CSC 450-01<br>(MW 4:00 - 5:15) </th>
+<th style = 'width:22.5%'>CSC 450-02<br>(MWF 1:00 - 1:50) </th>
 </tr>
 
 <tr>
-<td>
+<td class = 'left'>
 <ul style='margin-bottom: 0px'><li><span markdown = 'span'>
 [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
 </span></li></ul>
 </td> 
 <td> (not yet assigned)  </td>
-<td> Due: Friday, 9/6/19 </td>
+<td class = 'due'> Due: Friday, 9/6/19 </td>
+</tr>
+
+<tr>
+<td class = 'left'>
+<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
+[CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link.</span></li></ul>
+</td> 
+<td> (not yet assigned)  </td>
+<td class = 'due'> Due: Friday, 9/6/19 </td>
 </tr>
 
 {% comment %}
-<tr>
-<td>
-<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
-[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
-</span></li></ul>
-</td> 
-<td> (not yet assigned)  </td>
-<td> Due: Friday, 9/6/19 </td>
-</tr>
-
 <tr>
 <td>
 <ul style='margin-bottom: 0px'><li><span markdown = 'span'>
@@ -65,7 +73,6 @@ table, th, td {
 
 {% comment %}
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 9/05/18)
-* [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link . (Due: Friday, 9/12/18)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindArticles.pdf) (in-class assignment, 9/12/18)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Wednesday, 9/19/18)

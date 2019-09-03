@@ -24,47 +24,34 @@ td.left {
 
 </style>
 
-
 <table style = 'width:100%'>
 <tr style = 'border-bottom: 1px solid black'>
-<th style = 'width:55%'><br>Assignment </th>
-<th style = 'width:22.5%'>CSC 450-01<br>(MW 4:00 - 5:15) </th>
-<th style = 'width:22.5%'>CSC 450-02<br>(MWF 1:00 - 1:50) </th>
+<th style = 'width:52%'><br>Assignment </th>
+<th style = 'width:24%'>CSC 450-01<br>(MW 4:00 - 5:15) </th>
+<th style = 'width:24%'>CSC 450-02<br>(MWF 1:00 - 1:50) </th>
 </tr>
 
-<tr>
-<td class = 'left'>
-<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
-[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
-</span></li></ul>
-</td> 
-<td> (not yet assigned)  </td>
-<td class = 'due'> Due: Friday, 9/6/19 </td>
-</tr>
+{% include hwRow.html
+due1 = "Due: Monday, 9/9/19" 
+due2 = "Due: Friday, 9/6/19" 
+class1 = "due" class2 = "due" 
+name = "Autobiography and Piazza Post"
+link = "data/hw/Autobiography.pdf"
+%}
 
-<tr>
-<td class = 'left'>
-<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
-[CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link.</span></li></ul>
-</td> 
-<td> (not yet assigned)  </td>
-<td class = 'due'> Due: Friday, 9/6/19 </td>
-</tr>
+{% include hwRow.html 
+due1 = "Due: Wednesday, 9/11/19" 
+due2 = "Due: Friday, 9/6/19" 
+class1 = "due" class2 = "due" 
+name = "CA Evauation Article" link = "data/hw/Varas_CA_model_evacuation.pdf" 
+text = "To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the \'Assignments\' link."
+%}
 
-{% comment %}
-<tr>
-<td>
-<ul style='margin-bottom: 0px'><li><span markdown = 'span'>
-[Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) 
-</span></li></ul>
-</td> 
-<td> (not yet assigned)  </td>
-<td> Due: Friday, 9/6/19 </td>
-</tr>
-
-
-{% endcomment %}
-
+{% include hwRow.html 
+due1 = "in-class assignment" 
+due2 = "in-class assignment" 
+name = "Searching the Literature" link = "data/hw/LitSearch.pdf" 
+%}
 
 
 </table>

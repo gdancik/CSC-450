@@ -34,7 +34,7 @@ td.left {
 {% include hwRow.html
 due1 = "Due: Monday, 9/9/19" 
 due2 = "Due: Friday, 9/6/19" 
-class1 = "due" class2 = "due" 
+class1 = "due" 
 name = "Autobiography and Piazza Post"
 link = "data/hw/Autobiography.pdf"
 %}
@@ -42,10 +42,18 @@ link = "data/hw/Autobiography.pdf"
 {% include hwRow.html 
 due1 = "Due: Wednesday, 9/11/19" 
 due2 = "Due: Friday, 9/6/19" 
-class1 = "due" class2 = "due" 
+class1 = "due" 
 name = "CA Evauation Article" link = "data/hw/Varas_CA_model_evacuation.pdf" 
-text = "To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the \'Assignments\' link."
+text = "To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the \'Assignments\' link.
+"%}
+
+{% include hwRow.html
+name = "CA Evacuation Article Discussion" 
+link = "/data/hw/Evaluation-CA-Evacuation.docx"
+due1 = "in-class assignment"
+due2 = "in-class assignment"
 %}
+
 
 {% include hwRow.html 
 due1 = "in-class assignment" 
@@ -53,6 +61,14 @@ due2 = "in-class assignment"
 name = "Searching the Literature" link = "data/hw/LitSearch.pdf" 
 %}
 
+{% include hwRow.html 
+due1 = "(not yet assigned)"
+class2 = "due" 
+due2 = "Due: Friday, 9/13/19" 
+name = "Searching the Literature" link = "data/hw/FB.pdf" 
+name =  "FB Article"
+text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
+%}
 
 </table>
 

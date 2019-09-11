@@ -75,7 +75,7 @@ class2 = "due"
 class1 = "due" 
 due2 = "Due: Friday, 9/27/19"
 name = "Literature Review" link = "data/hw/LitReview.pdf" 
-text = "Literature Review"
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
 
 

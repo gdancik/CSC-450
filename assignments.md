@@ -34,7 +34,6 @@ td.left {
 {% include hwRow.html
 due1 = "Due: Monday, 9/9/19" 
 due2 = "Due: Friday, 9/6/19" 
-class1 = "due" 
 name = "Autobiography and Piazza Post"
 link = "data/hw/Autobiography.pdf"
 %}
@@ -69,6 +68,19 @@ name = "Searching the Literature" link = "data/hw/FB.pdf"
 name =  "FB Article"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
+
+{% include hwRow.html 
+due1 = "Due: Friday, 9/27/19"
+class2 = "due" 
+class1 = "due" 
+due2 = "Due: Friday, 9/27/19"
+name = "Literature Review" link = "data/hw/LitReview.pdf" 
+text = "Literature Review"
+%}
+
+
+
+
 
 </table>
 

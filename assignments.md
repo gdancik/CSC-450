@@ -69,6 +69,15 @@ name =  "FB Article"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 
+
+{% include hwRow.html 
+due1 = "(not yet assigned)"
+class2 = "due" 
+class1 = "" 
+due2 = "Due: Monday, 9/16/19"
+name = "Piazza Assignment" 
+%}
+
 {% include hwRow.html 
 due1 = "Due: Friday, 9/27/19"
 class2 = "due" 

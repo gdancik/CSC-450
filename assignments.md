@@ -66,6 +66,8 @@ class2 = "due"
 class1 = "due" 
 due2 = "Due: Friday, 9/13/19" 
 name =  "FB Article"
+link = "/data/hw/FB.pdf"
+due1 = "in-class assignment"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 

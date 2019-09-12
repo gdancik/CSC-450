@@ -61,10 +61,10 @@ name = "Searching the Literature" link = "data/hw/LitSearch.pdf"
 %}
 
 {% include hwRow.html 
-due1 = "(not yet assigned)"
+due1 = "Due: Wednesday, 9/18/19"
 class2 = "due" 
+class1 = "due" 
 due2 = "Due: Friday, 9/13/19" 
-name = "Searching the Literature" link = "data/hw/FB.pdf" 
 name =  "FB Article"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
@@ -75,7 +75,7 @@ due1 = "(not yet assigned)"
 class2 = "due" 
 class1 = "" 
 due2 = "Due: Monday, 9/16/19"
-name = "Piazza Assignment" 
+text = "[Piazza assignment](http://piazza.com)"
 %}
 
 {% include hwRow.html 

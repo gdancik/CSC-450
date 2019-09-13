@@ -71,6 +71,13 @@ due1 = "in-class assignment"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 
+{% include hwRow.html
+name = "FB Article Discussion" 
+link = "/data/hw/Evaluation-FB.docx"
+due1 = "(not yet assigned)"
+due2 = "in-class assignment"
+%}
+
 
 {% include hwRow.html 
 due1 = "(not yet assigned)"

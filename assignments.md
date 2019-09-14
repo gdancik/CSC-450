@@ -41,7 +41,6 @@ link = "data/hw/Autobiography.pdf"
 {% include hwRow.html 
 due1 = "Due: Wednesday, 9/11/19" 
 due2 = "Due: Friday, 9/6/19" 
-class1 = "due" 
 name = "CA Evauation Article" link = "data/hw/Varas_CA_model_evacuation.pdf" 
 text = "To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the \'Assignments\' link.
 "%}
@@ -62,12 +61,11 @@ name = "Searching the Literature" link = "data/hw/LitSearch.pdf"
 
 {% include hwRow.html 
 due1 = "Due: Wednesday, 9/18/19"
-class2 = "due" 
 class1 = "due" 
 due2 = "Due: Friday, 9/13/19" 
 name =  "FB Article"
 link = "/data/hw/FB.pdf"
-due1 = "in-class assignment"
+due1 = "Due: Wednesday, 9/18/19"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 
@@ -87,6 +85,15 @@ due2 = "Due: Monday, 9/16/19"
 text = "[Piazza assignment](http://piazza.com)"
 %}
 
+
+{% include hwRow.html
+name = "Article Evaluation" 
+link = "/data/hw/Evaluation.docx"
+class2 = "due"
+due1 = "(not yet assigned)"
+due2 = "Friday, 9/20/2019"
+%}
+
 {% include hwRow.html 
 due1 = "Due: Friday, 9/27/19"
 class2 = "due" 
@@ -95,9 +102,6 @@ due2 = "Due: Friday, 9/27/19"
 name = "Literature Review" link = "data/hw/LitReview.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
-
-
-
 
 
 </table>

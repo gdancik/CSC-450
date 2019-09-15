@@ -106,6 +106,14 @@ name = "Literature Review" link = "data/hw/LitReview.pdf"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
 
+{% include hwRow.html 
+due1 = "(not yet assigned)"
+class2 = "due" 
+due2 = "Due dates will vary"
+name = "Lab Meeting #1" link = "data/hw/LabMeeting1.pdf" 
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+%}
+
 
 </table>
 

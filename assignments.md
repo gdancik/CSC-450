@@ -59,6 +59,9 @@ due2 = "in-class assignment"
 name = "Searching the Literature" link = "data/hw/LitSearch.pdf" 
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
+
 {% include hwRow.html 
 due1 = "Due: Wednesday, 9/18/19"
 class1 = "due" 

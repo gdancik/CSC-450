@@ -81,9 +81,8 @@ due2 = "in-class assignment"
 
 
 {% include hwRow.html 
-due1 = "(not yet assigned)"
-class2 = "due" 
-class1 = "" 
+due1 = "(Wednesday, 9/18/19)"
+class1 = "due" 
 due2 = "Due: Monday, 9/16/19"
 text = "[Piazza assignment](http://piazza.com)"
 %}
@@ -98,10 +97,10 @@ due2 = "Friday, 9/20/2019"
 %}
 
 {% include hwRow.html 
-due1 = "Due: Friday, 9/27/19"
+due1 = "Due: Friday, 9/27/19 by 5:00 PM"
 class2 = "due" 
 class1 = "due" 
-due2 = "Due: Friday, 9/27/19"
+due2 = "Due: Friday, 9/27/19 by 5:00 PM"
 name = "Literature Review" link = "data/hw/LitReview.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}

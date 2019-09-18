@@ -59,12 +59,9 @@ due2 = "in-class assignment"
 name = "Searching the Literature" link = "data/hw/LitSearch.pdf" 
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
 
 {% include hwRow.html 
 due1 = "Due: Wednesday, 9/18/19"
-class1 = "due" 
 due2 = "Due: Friday, 9/13/19" 
 name =  "FB Article"
 link = "/data/hw/FB.pdf"
@@ -72,17 +69,19 @@ due1 = "Due: Wednesday, 9/18/19"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
+
 {% include hwRow.html
 name = "FB Article Discussion" 
 link = "/data/hw/Evaluation-FB.docx"
-due1 = "(not yet assigned)"
 due2 = "in-class assignment"
+due1 = "in-class assignment"
 %}
 
 
 {% include hwRow.html 
 due1 = "(Wednesday, 9/18/19)"
-class1 = "due" 
 due2 = "Due: Monday, 9/16/19"
 text = "[Piazza assignment](http://piazza.com)"
 %}
@@ -92,7 +91,8 @@ text = "[Piazza assignment](http://piazza.com)"
 name = "Article Evaluation" 
 link = "/data/hw/Evaluation.docx"
 class2 = "due"
-due1 = "(not yet assigned)"
+class1 = "due"
+due1 = "Wednesday, 9/25/19"
 due2 = "Friday, 9/20/2019"
 %}
 
@@ -106,11 +106,12 @@ text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
 
 {% include hwRow.html 
-due1 = "(not yet assigned)"
-class2 = "due" 
-due2 = "Due dates will vary"
 name = "Lab Meeting #1" link = "data/hw/LabMeeting1.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+class1 = "due" 
+class2 = "due" 
+due2 = "Due dates will vary"
+due1 = "Due dates will vary"
 %}
 
 

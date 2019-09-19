@@ -15,10 +15,10 @@ exclude_from_nav: false
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Module 5: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
-* [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-{% comment %}
+* [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+{% comment %}
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 10: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 

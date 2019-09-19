@@ -92,7 +92,6 @@ text = "[Piazza assignment](http://piazza.com)"
 name = "Article Evaluation" 
 link = "/data/hw/Evaluation.docx"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class2 = "due"
 class1 = "due"
 due1 = "Wednesday, 9/25/19"
 due2 = "Friday, 9/20/2019"
@@ -115,6 +114,15 @@ class2 = "due"
 due2 = "Due dates will vary"
 due1 = "Due dates will vary"
 %}
+
+{% include hwRow.html 
+name = "Research Proposal" link = "data/hw/Proposal.pdf" 
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+class2 = "due" 
+due2 = "Friday, 10/4/2019 by 5:00 PM"
+due1 = "(not yet assigned)"
+%}
+
 
 
 </table>

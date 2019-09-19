@@ -69,8 +69,6 @@ due1 = "Due: Wednesday, 9/18/19"
 text = "- To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
 
 {% include hwRow.html
 name = "FB Article Discussion" 
@@ -86,10 +84,14 @@ due2 = "Due: Monday, 9/16/19"
 text = "[Piazza assignment](http://piazza.com)"
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
+
 
 {% include hwRow.html
 name = "Article Evaluation" 
 link = "/data/hw/Evaluation.docx"
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 class2 = "due"
 class1 = "due"
 due1 = "Wednesday, 9/25/19"

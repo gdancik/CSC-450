@@ -84,18 +84,17 @@ due2 = "Due: Monday, 9/16/19"
 text = "[Piazza assignment](http://piazza.com)"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
-
 
 {% include hwRow.html
 name = "Article Evaluation" 
 link = "/data/hw/Evaluation.docx"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class1 = "due"
 due1 = "Wednesday, 9/25/19"
 due2 = "Friday, 9/20/2019"
 %}
+
+<tr> <td colspan = "3"> <hr></td>
+</tr>
 
 {% include hwRow.html 
 due1 = "Due: Friday, 9/27/19 by 5:00 PM"
@@ -119,8 +118,9 @@ due1 = "Due dates will vary"
 name = "Research Proposal" link = "data/hw/Proposal.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 class2 = "due" 
+class1 = "due" 
 due2 = "Friday, 10/4/2019 by 5:00 PM"
-due1 = "(not yet assigned)"
+due1 = "Friday, 10/4/2019 by 5:00 PM"
 %}
 
 

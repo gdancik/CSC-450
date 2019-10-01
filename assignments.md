@@ -93,17 +93,15 @@ due1 = "Wednesday, 9/25/19"
 due2 = "Friday, 9/20/2019"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
-
 {% include hwRow.html 
 due1 = "Due: Friday, 9/27/19 by 5:00 PM"
-class2 = "due" 
-class1 = "due" 
 due2 = "Due: Friday, 9/27/19 by 5:00 PM"
 name = "Literature Review" link = "data/hw/LitReview.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
+
+<tr> <td colspan = "3"> <hr></td>
+</tr>
 
 {% include hwRow.html 
 name = "Lab Meeting #1" link = "data/hw/LabMeeting1.pdf" 

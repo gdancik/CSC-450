@@ -100,14 +100,10 @@ name = "Literature Review" link = "data/hw/LitReview.pdf"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
 
 {% include hwRow.html 
 name = "Lab Meeting #1" link = "data/hw/LabMeeting1.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class1 = "due" 
-class2 = "due" 
 due2 = "Due dates will vary"
 due1 = "Due dates will vary"
 %}
@@ -115,12 +111,12 @@ due1 = "Due dates will vary"
 {% include hwRow.html 
 name = "Research Proposal" link = "data/hw/Proposal.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class2 = "due" 
-class1 = "due" 
 due2 = "Friday, 10/4/2019 by 5:00 PM"
 due1 = "Friday, 10/4/2019 by 5:00 PM"
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
 
 
 </table>

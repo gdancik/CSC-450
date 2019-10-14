@@ -118,9 +118,15 @@ due1 = "Friday, 10/4/2019 by 5:00 PM"
 <tr> <td colspan = "3"> <hr></td>
 </tr>
 
+{% include hwRow.html 
+name = "Github Assignment" link = "data/hw/Github.pdf"
+class1 = "due"
+class2 = "due" 
+due2 = "Monday, 10/21/2019 by 1:00 PM"
+due1 = "Friday, 10/21/2019 by 4:00 PM"
+%}
 
 </table>
-
 
 
 {% comment %}
@@ -133,7 +139,6 @@ due1 = "Friday, 10/4/2019 by 5:00 PM"
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/28/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/05/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
-* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/17/17 by 4:00 PM)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/22/18)
 * [Research Article Outline]({{ site.baseurl }}/data/hw/Outline.pdf) (Due date: Wednesday, 10/31/18) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 10/31/18) 

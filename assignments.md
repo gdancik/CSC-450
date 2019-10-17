@@ -123,7 +123,7 @@ name = "Github Assignment" link = "data/hw/Github.pdf"
 class1 = "due"
 class2 = "due" 
 due2 = "Monday, 10/21/2019 by 1:00 PM"
-due1 = "Friday, 10/21/2019 by 4:00 PM"
+due1 = "Monday, 10/21/2019 by 4:00 PM"
 %}
 
 </table>

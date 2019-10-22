@@ -149,8 +149,17 @@ hide = "shide"
 name = "Github Assignment" link = "data/hw/Github.pdf"
 class1 = "due"
 class2 = "due" 
-due2 = "Wednesday, 10/23/2019 by 1:00 PM"
-due1 = "Wednesday, 10/23/2019 by 4:00 PM"
+due2 = "Wednesday, 10/23/2019 by 4:00 PM"
+due1 = "Wednesday, 10/23/2019 by 1:00 PM"
+%}
+
+
+{% include hwRow.html
+hide = "shide"
+name = "Reference Assignment" 
+link = "/data/hw/ReferenceAssignment.docx"
+due2 = "in-class assignment"
+due1 = "in-class assignment"
 %}
 
 {% include hwRow.html 
@@ -162,6 +171,18 @@ due1 = "Friday, 11/01/2019 by 5:00 PM"
 due2 = "Friday, 11/01/2019 by 5:00 PM"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
+
+
+
+{% include hwRow.html 
+hide = "shide"
+name = "Lab Meeting #2" link = "data/hw/LabMeeting2.pdf" 
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+class1 = "due"
+due2 = "Due dates will vary"
+due1 = "Due dates will vary"
+%}
+
 
 <tr> <td colspan = "3">
 <br><br>

@@ -151,10 +151,6 @@ due2 = "Wednesday, 10/23/2019 by 4:00 PM"
 due1 = "Wednesday, 10/23/2019 by 1:00 PM"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
-
-
 {% include hwRow.html
 hide = "shide"
 name = "Reference Assignment" 
@@ -162,6 +158,9 @@ link = "/data/hw/ReferenceAssignment.docx"
 due2 = "in-class assignment"
 due1 = "in-class assignment"
 %}
+
+<tr> <td colspan = "3"> <hr></td>
+</tr>
 
 {% include hwRow.html 
 hide = "shide"

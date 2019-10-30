@@ -179,8 +179,19 @@ hide = "shide"
 name = "Lab Meeting #2" link = "data/hw/LabMeeting2.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 class1 = "due"
+class2 = "due"
 due2 = "Due dates will vary"
 due1 = "Due dates will vary"
+%}
+
+{% include hwRow.html 
+hide = "shide"
+name = "Rough Draft" link = "data/hw/ResearchPaper.pdf" 
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+class1 = "due"
+class2 = "due"
+due2 = "11/15/2019"
+due1 = "11/15/2019"
 %}
 
 

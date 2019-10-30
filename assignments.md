@@ -164,6 +164,15 @@ due1 = "in-class assignment"
 
 {% include hwRow.html 
 hide = "shide"
+name = "Abstract Assignment" link = "data/hw/Abstracts.docx"
+class1 = "due"
+due1 = "in-class assignment"
+due2 = "(not yet assigned)"
+%}
+
+
+{% include hwRow.html 
+hide = "shide"
 name = "Research Outline" link = "data/hw/Outline.docx"
 class1 = "due"
 class2 = "due" 

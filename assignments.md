@@ -145,8 +145,6 @@ due1 = "Friday, 10/4/2019 by 5:00 PM"
 {% include hwRow.html 
 hide = "shide"
 name = "Github Assignment" link = "data/hw/Github.pdf"
-class1 = "due"
-class2 = "due" 
 due2 = "Wednesday, 10/23/2019 by 4:00 PM"
 due1 = "Wednesday, 10/23/2019 by 1:00 PM"
 %}

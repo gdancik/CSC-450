@@ -171,25 +171,21 @@ due2 = "in-class assignment"
 {% include hwRow.html 
 hide = "shide"
 name = "Research Outline" link = "data/hw/Outline.docx"
-class1 = "due"
-class2 = "due" 
 due1 = "Friday, 11/01/2019 by 5:00 PM"
 due2 = "Friday, 11/01/2019 by 5:00 PM"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
 
 {% include hwRow.html 
 hide = "shide"
 name = "LaTeX Assignment" link = "data/hw/latex-assignment.pdf"
 due1 = "in-class assignment"
 due2 = "in-class assignment"
-class1 = "due"
-class2 = "due"
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
 
 {% include hwRow.html 
 hide = "shide"

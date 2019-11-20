@@ -21,13 +21,13 @@ exclude_from_nav: false
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
+* [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
 {% comment %}
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 
 ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
-* [Module 12: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_Swirl.pdf) 
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
     * [Feedback on Lit Review]({{ site.baseurl }}/data/notes/LitFeedback.pdf) 
 {% endcomment %}

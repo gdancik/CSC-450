@@ -126,7 +126,7 @@ text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 
 
 {% include hwRow.html 
-hide = "shide"
+hide = "hide"
 name = "Lab Meeting #1" link = "data/hw/LabMeeting1.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 due2 = "Due dates will vary"
@@ -182,15 +182,11 @@ due1 = "in-class assignment"
 due2 = "in-class assignment"
 %}
 
-<tr> <td colspan = "3"> <hr></td>
-</tr>
 
 {% include hwRow.html 
 hide = "shide"
 name = "Lab Meeting #2" link = "data/hw/LabMeeting2.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class1 = "due"
-class2 = "due"
 due2 = "Due dates will vary"
 due1 = "Due dates will vary"
 %}
@@ -199,12 +195,30 @@ due1 = "Due dates will vary"
 hide = "shide"
 name = "Rough Draft" link = "data/hw/ResearchPaper.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class1 = "due"
-class2 = "due"
 due2 = "11/15/2019"
 due1 = "11/15/2019"
 %}
 
+<tr> <td colspan = "3"> <hr></td>
+</tr>
+
+{% include hwRow.html
+hide = "shide"
+name = "Research Presentation" link = "data/hw/ResearchPresentation.pdf"
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+due1 = "(Due dates will vary)"
+due2 = "(Due dates will vary)"
+%}
+
+{% include hwRow.html 
+hide = "shide"
+name = "Final Paper" link = "data/hw/ResearchPaper.pdf" 
+text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
+class1 = "sdue"
+class2 = "sdue"
+due2 = "Wednesday, 12/11/2019 by 2:00 PM"
+due1 = "Monday, 12/09/2019 by 5:00 PM"
+%}
 
 <tr> <td colspan = "3">
 <br><br>
@@ -229,7 +243,6 @@ due1 = "11/15/2019"
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 11/14/18) 
 <hr>
-* [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule01.pdf)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 12/10/18 by 7:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due date: Wednesday, 4/04/18) 

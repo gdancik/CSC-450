@@ -208,14 +208,16 @@ name = "Research Presentation" link = "data/hw/ResearchPresentation.pdf"
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
 due1 = "(Due dates will vary)"
 due2 = "(Due dates will vary)"
+class1 = "due"
+class2 = "due"
 %}
 
 {% include hwRow.html 
 hide = "shide"
 name = "Final Paper" link = "data/hw/ResearchPaper.pdf" 
 text = "(Submit through [Blackboard](http://easternct.blackboard.com))"
-class1 = "sdue"
-class2 = "sdue"
+class1 = "due"
+class2 = "due"
 due2 = "Wednesday, 12/11/2019 by 2:00 PM"
 due1 = "Monday, 12/09/2019 by 5:00 PM"
 %}

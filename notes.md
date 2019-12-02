@@ -22,8 +22,8 @@ exclude_from_nav: false
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
-{% comment %}
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
+{% comment %}
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 

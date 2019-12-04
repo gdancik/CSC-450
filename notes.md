@@ -23,10 +23,10 @@ exclude_from_nav: false
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
-{% comment %}
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 
+{% comment %}
 ([latex_example]({{ site.baseurl }}/data/notes/latex_example.zip)) 
 * [Github and Reproducible Research]({{ site.baseurl }}/data/notes/Github-and-Project.pdf) 
     * [Feedback on Lit Review]({{ site.baseurl }}/data/notes/LitFeedback.pdf) 

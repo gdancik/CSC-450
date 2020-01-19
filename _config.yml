@@ -14,3 +14,4 @@ baseurl: "/CSC-450"
 markdown: kramdown
 timezone: America/New_York
 course: CSC-450
+type: one

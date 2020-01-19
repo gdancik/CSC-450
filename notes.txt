@@ -1,0 +1,3 @@
+To toggle between one and two sections:
+    config.yml: set type to 'one'
+

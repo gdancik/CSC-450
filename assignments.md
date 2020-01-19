@@ -4,7 +4,7 @@ title: Assignments
 titleDisplay: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: false 
+exclude_from_nav: true 
 ---
 
 <style>

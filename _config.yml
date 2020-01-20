@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# set type: two for 2-section layout; otherwise use type: one
+
 # Site settings
 title: Home 
 # the base hostname & protocol for your site

@@ -7,9 +7,17 @@
     {% include header.html %}
 
     <div class="page-content">
+
+    {% if site.type == "two" %}
       <div class="wrapper2">
         {{ content }}
       </div>
+    
+    {% else %} 
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    {% endif %}
     </div>
 
     {% include footer.html %}

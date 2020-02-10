@@ -15,9 +15,9 @@ exclude_from_nav: false
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf)
 * [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-{% comment %}
-* [Module 5: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
+* [Module 7: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
+{% comment %}
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 

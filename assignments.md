@@ -50,9 +50,9 @@ function removeHideClass() {
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 <hr>
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Wednesday, 02/19/20)
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/28/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 9/28/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/05/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/22/18)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 10/31/18) 

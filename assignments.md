@@ -48,12 +48,12 @@ function removeHideClass() {
 * [Piazza Assignment](http://www.piazza.com) (Due Friday, 02/07/2020)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 02/07/2020)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
-<hr>
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Wednesday, 02/19/20)
+<hr>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/28/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 03/06/20, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/05/18, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/22/18)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 10/31/18) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))

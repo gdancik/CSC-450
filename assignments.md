@@ -49,10 +49,11 @@ function removeHideClass() {
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 02/07/2020)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Wednesday, 02/19/20)
-<hr>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/28/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 03/06/20, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr>
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 03/03/20, by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/22/18)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 10/31/18) 

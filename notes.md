@@ -19,8 +19,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
 * [Module 8: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+* [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 {% comment %}
-* [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: LaTeX typesetting]({{ site.baseurl }}/data/notes/latex.pdf) 
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 

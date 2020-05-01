@@ -21,9 +21,11 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
-{% comment %}
-* [Module 11: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf) 
-* [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf) 
+* [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
+* [Module 12: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
+* [Wrap up]({{ site.baseurl }}/data/notes/WrapUp01.pdf)
+
+{% comment %} 
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 
     * [CSC 450-02 ]({{ site.baseurl }}/data/notes/WrapUp02.pdf) 

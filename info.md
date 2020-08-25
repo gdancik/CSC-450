@@ -7,7 +7,7 @@ order: 1
 ---
 
 * [Course Syllabus]({{ site.baseurl }}/data/info/csc450-02_syllabus_fall_2020.pdf) 
-  * [Schedule a meeting](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
+  * [Schedule a meeting during office hours](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 {% comment %}
 * [Selecting a Research Topic]({{ site.baseurl }}/data/info/ChoiceOfTopic.pdf)
 * [Example Research Projects]({{ site.baseurl }}/data/info/ResearchIdeas.pdf)

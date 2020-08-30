@@ -42,9 +42,9 @@ function removeHideClass() {
 </script>
 
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 09/04/2020)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 08/31/2020)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Wednesday, 09/09/2020; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Monday, 09/09/2020)
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.pdf) (in-class assignment on 01/27/20)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Piazza Assignment](http://www.piazza.com) (Due Friday, 02/07/2020)
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 02/07/2020)

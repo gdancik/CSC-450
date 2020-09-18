@@ -47,11 +47,11 @@ function removeHideClass() {
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Wednesday, 09/09/2020; submit through [Blackboard](http://easternct.blackboard.com))
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 09/11/2020)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
-<hr>
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 09/18/20)
+<hr>
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/02/20 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/28/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 03/06/20, at 4:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/25/20)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 03/30/20, by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))

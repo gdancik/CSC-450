@@ -17,8 +17,8 @@ exclude_from_nav: false
 * [Module 7: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
 * [Module 8: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
-{% comment %} 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+{% comment %} 
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)

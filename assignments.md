@@ -53,12 +53,12 @@ function removeHideClass() {
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/09/20, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/28/20 by 1:00 PM)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/26/20)
-<hr>
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/02/20, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr>
+* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 11/16/2020 by 1:00 PM) 
 {% comment %}
-* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 04/13/20) 
 <hr>
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 05/11/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 

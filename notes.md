@@ -19,10 +19,10 @@ exclude_from_nav: false
 * [Module 8: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 {% comment %} 
-* [Module 10: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
+* [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
-* [Module 12: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Wrap up]({{ site.baseurl }}/data/notes/WrapUp01.pdf)
 
 * Wrap-Up

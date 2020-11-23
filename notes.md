@@ -20,8 +20,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
-{% comment %} 
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
+{% comment %} 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Wrap up]({{ site.baseurl }}/data/notes/WrapUp01.pdf)
 

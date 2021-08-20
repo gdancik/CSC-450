@@ -8,6 +8,7 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %} 
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
@@ -21,9 +22,8 @@ exclude_from_nav: false
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
-{% comment %} 
+* [Wrap up]({{ site.baseurl }}/data/notes/WrapUp02.pdf)
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
-* [Wrap up]({{ site.baseurl }}/data/notes/WrapUp01.pdf)
 
 * Wrap-Up
     * [CSC 450-01 ]({{ site.baseurl }}/data/notes/WrapUp01.pdf) 

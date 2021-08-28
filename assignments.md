@@ -44,11 +44,15 @@ function removeHideClass() {
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
+
+<hr style = "margin-bottom:5px; height:1px; background-color:red;">
+
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/03/2021; submit through [Blackboard](http://easternct.blackboard.com))
+
 {% comment %}
 * [CA Evacuation Article]({{ site.baseurl }}/data/hw/Varas_CA_model_evacuation.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 09/04/2020)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-CA-Evacuation.docx)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 08/31/2020)
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Wednesday, 09/09/2020; submit through [Blackboard](http://easternct.blackboard.com))
 * [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 09/11/2020)
     * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 09/18/20)

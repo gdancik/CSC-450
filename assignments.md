@@ -45,14 +45,13 @@ function removeHideClass() {
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/03/2021; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 09/03/2021)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Wednesday, 09/08/2021)
+<hr style = "margin-bottom:5px; height:1px; background-color:red;">
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Wednesday, 09/15/2021)
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/01/21 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [FB Article]({{ site.baseurl }}/data/hw/FB.pdf) - To prepare for in-class discussion, read the article and answer the questions on [Blackboard](http://easternct.blackboard.com) under the 'Assignments' link (Due: Friday, 09/11/2020)
-    * [Article Discussion]({{ site.baseurl }}/data/hw/Evaluation-FB.docx)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation.docx) (Due: Friday, 09/18/20)
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/02/20 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Friday, 10/09/20, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/28/20 by 1:00 PM)

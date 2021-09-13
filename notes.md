@@ -12,10 +12,10 @@ exclude_from_nav: false
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
-{% comment %} 
 * [Module 5: Data Collection]({{ site.baseurl }}/data/notes/data-collection.pdf)
-    * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
+{% comment %} 
+    * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
 * [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 8: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))

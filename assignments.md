@@ -47,8 +47,8 @@ function removeHideClass() {
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/03/2021; submit through [Blackboard](http://easternct.blackboard.com))
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 09/03/2021)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Wednesday, 09/08/2021)
-<hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Wednesday, 09/15/2021)
+<hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Wednesday, 09/22/21)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/01/21 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}

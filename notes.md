@@ -16,9 +16,9 @@ exclude_from_nav: false
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-{% comment %} 
-* [Module 8: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
+* [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+{% comment %} 
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 

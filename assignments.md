@@ -50,16 +50,19 @@ function removeHideClass() {
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Wednesday, 09/15/2021)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Wednesday, 09/22/21)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/01/21 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 10/10/21, by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "margin-bottom:5px; height:1px; background-color:red;">
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/02/21, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/19/2021 by 1:00 PM) 
+
+
+
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Wednesday, 10/28/20 by 1:00 PM)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/26/20)
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/02/20, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 11/16/2020 by 1:00 PM) 
 <hr>
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/09/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 

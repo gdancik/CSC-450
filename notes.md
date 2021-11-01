@@ -19,6 +19,7 @@ exclude_from_nav: false
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Reference Examples]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx)
 {% comment %} 
 * [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 

@@ -58,7 +58,7 @@ function removeHideClass() {
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/19/2021 by 1:00 PM) 
 <hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Monday, 12/08/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/08/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/26/20)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 

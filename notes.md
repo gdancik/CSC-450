@@ -18,12 +18,12 @@ exclude_from_nav: false
 * [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-* [Module 9: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Reference Examples]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx)
-* [Module 10: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
+* [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
+* [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% comment %} 
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
-* [Wrap up]({{ site.baseurl }}/data/notes/WrapUp02.pdf)
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 
 * Wrap-Up

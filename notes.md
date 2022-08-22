@@ -8,6 +8,8 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+
+{% comment %} 
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf) ([Example]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf))
@@ -22,7 +24,6 @@ exclude_from_nav: false
 * [Reference Examples]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx)
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %} 
 * [Module 11: Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 

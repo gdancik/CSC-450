@@ -44,11 +44,12 @@ function removeHideClass() {
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Wednesday, 09/07/2022)
+
 {% comment %}
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/03/2021; submit through [Blackboard](http://easternct.blackboard.com))
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 09/03/2021)
-* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Wednesday, 09/08/2021)
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Wednesday, 09/15/2021)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 09/03/2022)
+* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Wednesday, 09/08/2022)
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Wednesday, 09/15/2022)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Wednesday, 09/22/21)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/01/21 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
@@ -56,7 +57,7 @@ function removeHideClass() {
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/02/21, by 1:00 PM; submit a hard copy in class)
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/19/2021 by 1:00 PM) 
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/19/2022 by 1:00 PM) 
 <hr style = "margin-bottom:5px; height:1px; background-color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/08/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
@@ -75,6 +76,22 @@ function removeHideClass() {
 * [Find an Article ]({{ site.baseurl }}/data/hw/FindArticles.pdf) (in-class assignment, 9/12/18)
 
 ***
+
 {% endcomment %}
 
 <br>
+
+<script>
+const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
+elements = document.getElementsByTagName('li');
+
+for (el of elements) {
+        var res = pattern.exec(el.innerText);
+        if (res != null && res.length >= 2) {
+                if (new Date(res[1]) >= new Date()) {
+                        el.className = 'due';
+                }
+        }
+}
+</script>
+

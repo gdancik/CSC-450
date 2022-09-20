@@ -51,8 +51,8 @@ function removeHideClass() {
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Find two articles](https://piazza.com) (Due: Wednesday, 09/21/2022)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/26/2022)
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/10/2022 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 10/01/21 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 10/10/21, by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)

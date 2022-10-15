@@ -50,10 +50,10 @@ function removeHideClass() {
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/19/2022)
 * [Find two articles](https://piazza.com) (Due: Wednesday, 09/21/2022)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/26/2022)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/10/2022 by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
-* <span style = 'background-color:yellow'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* <span style = 'background-color:yellow'>[Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/17/2022, by 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* <span>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* <span style = 'background-color:yellow'>[Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/17/2022, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))</span>
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/02/21, by 1:00 PM; submit a hard copy in class)

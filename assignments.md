@@ -56,7 +56,7 @@ function removeHideClass() {
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Monday, 11/28/2022) 
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/09/2022, by 1:00 PM; submit a hard copy in class)
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/09/2022, by 1:00 PM; submit a hard copy in class)
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Friday, 11/19/2022 by 1:00 PM) 

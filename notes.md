@@ -20,6 +20,8 @@ exclude_from_nav: false
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
+* [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
+  [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)
 {% comment %} 
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Reference Examples]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx)

@@ -54,14 +54,14 @@ function removeHideClass() {
 * <span>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * <span>[Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/17/2022, by 1:00 PM; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/09/2022, by 1:00 PM; submit a hard copy in class)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 11/22/2022 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Monday, 11/28/2022) 
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/14/22 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)
-* [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/08/20 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 10/26/20)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 <hr>

@@ -44,10 +44,11 @@ function removeHideClass() {
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 01/27/2023)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Friday, 01/27/2023)
+* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 01/30/2023)
 {% comment %}
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment on 09/07/2023)
-* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/12/2023)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/19/2023)
 * [Find two articles](https://piazza.com) (Due: Wednesday, 09/21/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/26/2023)
@@ -58,7 +59,6 @@ function removeHideClass() {
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 11/22/2023 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Monday, 11/28/2023) 
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/14/22 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 10/29/20 by 1:00 PM)

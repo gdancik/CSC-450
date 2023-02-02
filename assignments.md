@@ -49,6 +49,7 @@ function removeHideClass() {
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 01/30/2023)
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 02/06/2023)
+* Find two articles - see posts on [Piazza](https://piazza.com) (Due: Wednesday, 02/08/2023)
 {% comment %}
 * [Find two articles](https://piazza.com) (Due: Wednesday, 09/21/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/26/2023)

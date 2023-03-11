@@ -11,6 +11,6 @@ order: 1
 * [Perusall Grading]({{ site.baseurl }}/data/info/Perusall.pdf)
 * [Selecting a Research Topic]({{ site.baseurl }}/data/info/ChoiceOfTopic.pdf)
 * [Example Research Projects]({{ site.baseurl }}/data/info/ResearchIdeas.pdf)
-{% comment %}
 * [Human Subjects Research]({{ site.baseurl }}/data/info/HumanSubjects.pdf)
+{% comment %}
 {% endcomment %}

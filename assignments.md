@@ -50,10 +50,10 @@ function removeHideClass() {
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 02/06/2023)
 * Find two articles - see posts on [Piazza](https://piazza.com) (Due: Wednesday, 02/08/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2023 by 11:00 AM)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/24/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
-* <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* <span class = 'mue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 03/05/2023, by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 {% comment %}
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/09/2023, by 1:00 PM; submit a hard copy in class)
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>

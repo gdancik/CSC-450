@@ -19,8 +19,8 @@ exclude_from_nav: false
 * [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-{% comment %} 
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+{% comment %} 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)

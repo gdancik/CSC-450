@@ -54,8 +54,8 @@ function removeHideClass() {
 * <span class = 'mue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 03/05/2023, by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 03/27/2023, by 11:00 AM; submit a hard copy in class)
 {% comment %}
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/09/2023, by 1:00 PM; submit a hard copy in class)
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 11/22/2023 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Monday, 11/28/2023) 

@@ -62,15 +62,15 @@ function removeHideClass() {
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Sunday, 03/05/2023, by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 03/24/2023 by 11:00 AM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: <strike>Monday, 03/27/2023</strike><span style = 'color:red'>Wednesday, 03/29/2023</span>, by 11:00 AM; submit a hard copy in class)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2023)
 * [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 03/31/2023) 
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 04/21/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/14/22 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 <hr>
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 

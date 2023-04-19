@@ -64,9 +64,9 @@ function removeHideClass() {
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: <strike>Monday, 03/27/2023</strike><span style = 'color:red'>Wednesday, 03/29/2023</span>, by 11:00 AM; submit a hard copy in class)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2023)
 * [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 03/31/2023) 
+* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
+* <span>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
-* <span style = 'background-color:yellow'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment, 11/02/20) 
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 04/21/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 

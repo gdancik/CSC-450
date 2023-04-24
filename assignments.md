@@ -66,11 +66,11 @@ function removeHideClass() {
 * [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 03/31/2023) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * <span>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 04/21/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 12/14/22 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
+{% comment %}
 <hr>
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 

@@ -22,10 +22,10 @@ exclude_from_nav: false
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
+* [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% comment %} 
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)
-* [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Module 11: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 
 * Wrap-Up

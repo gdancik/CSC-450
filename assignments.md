@@ -46,10 +46,16 @@ function removeHideClass() {
 
 </script>
 
+{% comment %}
 <div id = 'hidden' class = 'hide' markdown="1">
+{% endcomment %}
+
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
+
+
+{% comment %}
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 01/27/2023)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (<strike>Due: Friday, 01/27/2023</strike> We will do this in class on 1/27)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 01/30/2023)
@@ -70,7 +76,6 @@ function removeHideClass() {
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 <hr>
 * [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 
@@ -101,6 +106,7 @@ for (el of elements) {
 }
 </script>
 
+{% comment %}
 <center>
 <div id = 'clicker'>
 <a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all assignments</a>
@@ -111,3 +117,4 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
+{% endcomment %}

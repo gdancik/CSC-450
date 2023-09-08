@@ -56,9 +56,9 @@ function removeHideClass() {
 
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/08/2023)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Monday, 09/11/2023)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/11/2023)
 {% comment %}
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (<strike>Due: Friday, 01/27/2023</strike> We will do this in class on 1/27)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 02/06/2023)
 * Find two articles - see posts on [Piazza](https://piazza.com) (Due: Wednesday, 02/08/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2023 by 11:00 AM)

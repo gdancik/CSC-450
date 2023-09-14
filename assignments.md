@@ -58,9 +58,10 @@ function removeHideClass() {
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/08/2023)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Monday, 09/11/2023)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/11/2023)
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2023)
+* Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2023)
 {% comment %}
-* Find two articles - see posts on [Piazza](https://piazza.com) (Due: Wednesday, 02/08/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2023 by 11:00 AM)
 </div>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/24/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -73,7 +74,6 @@ function removeHideClass() {
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * <span>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Friday, 04/21/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>

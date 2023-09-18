@@ -58,11 +58,11 @@ function removeHideClass() {
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/08/2023)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Monday, 09/11/2023)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/11/2023)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2023)
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2023)
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/25/2023 by 10:00 AM)
 {% comment %}
-* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2023 by 11:00 AM)
 </div>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Friday, 02/24/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'mue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>

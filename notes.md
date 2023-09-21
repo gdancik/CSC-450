@@ -15,10 +15,10 @@ exclude_from_nav: false
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf) 
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 ([Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf) | [Example Annotated Bibliography]({{ site.baseurl }}/data/notes/AnnotatedBibliography.pdf)) 
+* [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 {% comment %} 
 * [Module 4: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Example Research Papers]({{ site.baseurl }}/data/notes/SelectedArticles.pdf)
-* [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 

@@ -61,14 +61,14 @@ function removeHideClass() {
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2023)
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2023)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/25/2023 by 10:00 AM)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/09/2023 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
-* <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/16/2023, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2023, by 10:00 AM; submit a hard copy in class)
 {% comment %}
 </div>
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 03/24/2023 by 11:00 AM)
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: <strike>Monday, 03/27/2023</strike><span style = 'color:red'>Wednesday, 03/29/2023</span>, by 11:00 AM; submit a hard copy in class)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2023)
 * [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 03/31/2023) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 

@@ -66,14 +66,15 @@ function removeHideClass() {
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/16/2023, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2023 by 10:00 AM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2023, by 10:00 AM; submit a hard copy in class)
-* <span class = "due">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2023 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com)) 
+* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
+* [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 12/01/2023) 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 </div>
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2023)
-* [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 03/31/2023) 
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>

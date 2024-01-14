@@ -9,6 +9,7 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
+{% comment %} 
 * [Module 3: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
@@ -20,7 +21,6 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
-{% comment %} 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |

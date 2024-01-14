@@ -53,28 +53,26 @@ function removeHideClass() {
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
-
-
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/08/2023)
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Monday, 09/11/2023)
-* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/11/2023)
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2023)
-* Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2023)
-* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/25/2023 by 10:00 AM)
-* [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/09/2023 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/25/2024)
+{% comment %}
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Monday, 09/11/2024)
+* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Monday, 09/11/2024)
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2024)
+* Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2024)
+* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/25/2024 by 10:00 AM)
+* [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/09/2024 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/16/2023, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
-* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2023 by 10:00 AM)
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2023, by 10:00 AM; submit a hard copy in class)
+* [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/16/2024, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2024 by 10:00 AM)
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2024, by 10:00 AM; submit a hard copy in class)
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2023 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 12/01/2023) 
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2024 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 12/01/2024) 
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2023 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2024 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 </div>
-* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2023)
+* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2024)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>

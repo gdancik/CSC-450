@@ -55,7 +55,7 @@ function removeHideClass() {
     * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/25/2024)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Tuesday, 01/30/2024); submit through [Blackboard](http://easternct.blackboard.com))
-* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: Tuesday, 01/30/2024)
+* [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: <strike>Tuesday, 01/30/2024</strike> Thursday, 2/1/2024)
 {% comment %}
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Monday, 09/18/2024)
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/18/2024)

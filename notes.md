@@ -10,10 +10,10 @@ exclude_from_nav: false
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
-{% comment %} 
-    * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
+    * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf) 
+{% comment %} 
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 ([Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf) | [Example Annotated Bibliography]({{ site.baseurl }}/data/notes/AnnotatedBibliography.pdf)) 
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)

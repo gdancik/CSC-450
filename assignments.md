@@ -58,8 +58,9 @@ function removeHideClass() {
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: <strike>Tuesday, 01/30/2024</strike> Thursday, 2/1/2024)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Tuesday, 02/06/2024)
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Tuesday, 02/06/2024)
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2024 by 09:30 AM)
 {% comment %}
-* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/25/2024 by 10:00 AM)
 * [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/09/2024 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/16/2024, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -68,7 +69,6 @@ function removeHideClass() {
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2024 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 12/01/2024) 
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2024 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 </div>

@@ -16,9 +16,9 @@ exclude_from_nav: false
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 ([Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf) | [Example Annotated Bibliography]({{ site.baseurl }}/data/notes/AnnotatedBibliography.pdf)) 
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-{% comment %} 
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+{% comment %} 
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) 

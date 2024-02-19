@@ -63,12 +63,12 @@ function removeHideClass() {
 * [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/22/2024 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 03/04/2024, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Résumé and Mock Interview]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Thursday, 04/25/2024 by 9:30 AM) 
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2024 by 10:00 AM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2024, by 10:00 AM; submit a hard copy in class)
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2024 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Write a Résumé]({{ site.baseurl }}/data/hw/ResumeAssignment.pdf) (Due: Friday, 12/01/2024) 
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2024 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 </div>

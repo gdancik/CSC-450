@@ -47,8 +47,8 @@ function removeHideClass() {
 </script>
 
 {% comment %}
-<div id = 'hidden' class = 'hide' markdown="1">
 {% endcomment %}
+<div id = 'hidden' class = 'hide' markdown="1">
 
 * Course setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
@@ -61,18 +61,19 @@ function removeHideClass() {
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2024 by 09:30 AM)
 * [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/22/2024 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+</div>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 03/04/2024, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2024)
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 03/26/2024, by 9:30 AM; submit a hard copy in class)
 * [Résumé and Mock Interview]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Thursday, 04/25/2024 by 9:30 AM) 
 {% comment %}
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2024 by 10:00 AM)
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Wednesday, 11/08/2024, by 10:00 AM; submit a hard copy in class)
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2024 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2024 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 </div>
-* [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/29/2024)
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>
@@ -106,6 +107,8 @@ for (el of elements) {
 </script>
 
 {% comment %}
+{% endcomment %}
+
 <center>
 <div id = 'clicker'>
 <a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all assignments</a>
@@ -116,4 +119,3 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
-{% endcomment %}

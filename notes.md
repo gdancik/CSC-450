@@ -19,9 +19,9 @@ exclude_from_nav: false
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
+* [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 {% comment %} 
-* [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
-* [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
+* [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)

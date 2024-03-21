@@ -63,12 +63,13 @@ function removeHideClass() {
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 </div>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 03/04/2024, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2024)
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 03/26/2024, by 9:30 AM; submit a hard copy in class)
+* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Tuesday, 03/26/2024 by 9:30 AM)
+* <span class = 'due'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Résumé and Mock Interview]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Thursday, 04/25/2024 by 9:30 AM) 
 {% comment %}
-* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Monday, 11/06/2024 by 10:00 AM)
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Sunday, 11/19/2024 by 12:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
@@ -77,7 +78,6 @@ function removeHideClass() {
 * [Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment) 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>
-* [Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 11/14/18; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [LaTeX assignment]({{ site.baseurl }}/data/hw/latex-assignment.pdf) (in-class assignment, 11/14/18) 
     * [Presentation Schedule]({{ site.baseurl }}/data/hw/FinalPresentationSchedule01.pdf)

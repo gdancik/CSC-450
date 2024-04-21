@@ -71,10 +71,10 @@ function removeHideClass() {
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Thursday, 04/18/2024 by 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Résumé and Mock Interview]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Thursday, 04/25/2024 by 9:30 AM) 
+* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/07/2024 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Wednesday, 12/13/2024 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 </div>
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr>

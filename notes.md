@@ -8,6 +8,7 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %} 
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
@@ -21,7 +22,6 @@ exclude_from_nav: false
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
-{% comment %} 
 * [Module 9: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)

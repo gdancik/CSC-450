@@ -47,12 +47,11 @@ function removeHideClass() {
 </script>
 
 {% comment %}
-{% endcomment %}
 <div id = 'hidden' class = 'hide' markdown="1">
+{% endcomment %}
 
-* Course setup
-    * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
-    * Sign up for [Perusall](https://perusall.com) using your Eastern e-mail address, and enroll in this course. The course code can be found on the syllabus in the [Course Information]({{ site.baseurl }}/info/) section.
+* Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 8/30/2024)
+{% comment %}
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/25/2024)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Tuesday, 01/30/2024); submit through [Blackboard](http://easternct.blackboard.com))
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: <strike>Tuesday, 01/30/2024</strike> Thursday, 2/1/2024)
@@ -73,7 +72,6 @@ function removeHideClass() {
 * [Résumé and Mock Interview]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Thursday, 04/25/2024 by 9:30 AM) 
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/07/2024 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * <span class = "ddue">[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 </div>
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due date: Wednesday, 05/10/23 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
@@ -107,7 +105,6 @@ for (el of elements) {
 </script>
 
 {% comment %}
-{% endcomment %}
 
 <center>
 <div id = 'clicker'>
@@ -119,3 +116,5 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
+
+{% endcomment %}

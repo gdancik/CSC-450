@@ -50,9 +50,9 @@ function removeHideClass() {
 <div id = 'hidden' class = 'hide' markdown="1">
 {% endcomment %}
 
-* Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 8/30/2024)
+* Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 08/30/2024)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/06/2024)
 {% comment %}
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/25/2024)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Tuesday, 01/30/2024); submit through [Blackboard](http://easternct.blackboard.com))
 * [Article Discussion - Cellular automata model for evacuation with obstacles](https://perusall.com) (Due: <strike>Tuesday, 01/30/2024</strike> Thursday, 2/1/2024)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Tuesday, 02/06/2024)

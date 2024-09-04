@@ -10,7 +10,7 @@ order: 1
 	* [Schedule a meeting during office hours](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 * [Selecting a Research Topic]({{ site.baseurl }}/data/info/ChoiceOfTopic.pdf)
 * [Example Research Projects]({{ site.baseurl }}/data/info/ResearchIdeas.pdf)
-{% comment %}
 * [Perusall Grading]({{ site.baseurl }}/data/info/Perusall.pdf)
+{% comment %}
 * [Human Subjects Research]({{ site.baseurl }}/data/info/HumanSubjects.pdf)
 {% endcomment %}

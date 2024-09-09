@@ -51,12 +51,12 @@ function removeHideClass() {
 {% endcomment %}
 
 * Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 08/30/2024)
-<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Friday, 09/06/2024)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Friday, 09/06/2024) 
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Monday, 09/09/2024)
+<hr style = "margin-bottom:5px; margin-top:-5px; color:red;">
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Monday, 09/16/2024)
 {% comment %}
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://perusall.com) (Due: Tuesday, 02/06/2024)
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Tuesday, 02/06/2024)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 02/13/2024 by 09:30 AM)
 * [Literature Review and Annotated Bibliography]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/22/2024 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))

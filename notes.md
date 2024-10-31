@@ -21,6 +21,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Understanding References]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) 
+* <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 {% comment %} 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation.pdf)
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)

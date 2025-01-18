@@ -9,6 +9,7 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
+{% comment %} 
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Module 4: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
@@ -24,7 +25,6 @@ exclude_from_nav: false
 * [Understanding References]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) 
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
-{% comment %} 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)

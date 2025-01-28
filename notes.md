@@ -10,6 +10,7 @@ exclude_from_nav: false
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
+* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx)
 * [Module 4: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
 {% comment %} 
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)

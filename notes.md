@@ -12,8 +12,8 @@ exclude_from_nav: false
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx)
 * [Module 4: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
-{% comment %} 
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
+{% comment %} 
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf) 
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)

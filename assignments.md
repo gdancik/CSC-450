@@ -52,15 +52,17 @@ function removeHideClass() {
 {% endcomment %}
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 01/28/2025)
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/04/2025)
 {% comment %}
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (Due: Friday, 09/06/2025) 
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Monday, 09/16/2025)
+{% endcomment %}
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/18/2025 by 9:30 AM)
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/27/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+{% comment %}
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
-* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Monday, 09/23/2025 by 10:00 AM)
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/07/2025 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/14/2025, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 11/01/2025 by 10:00 AM)
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/04/2025, by 10:00 AM; submit a hard copy in class)

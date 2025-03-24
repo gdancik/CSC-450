@@ -55,14 +55,14 @@ function removeHideClass() {
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/04/2025)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/18/2025 by 9:30 AM)
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/27/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 03/10/2025, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* <span class = 'xx'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Thursday, 03/27/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/01/2025, by 9:30 AM; submit a hard copy in class)
 {% comment %}
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
-* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Friday, 11/01/2025 by 10:00 AM)
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Monday, 11/04/2025, by 10:00 AM; submit a hard copy in class)
 * <span class = 'ddue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/18/2025 by 10:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Monday, 12/02/2025 by 5:00 PM) 

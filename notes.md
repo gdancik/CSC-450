@@ -21,8 +21,9 @@ exclude_from_nav: false
 * [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.docx) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.docx) 
+* [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
 {% comment %} 
-* [Understanding References]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)

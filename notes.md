@@ -23,6 +23,7 @@ exclude_from_nav: false
 * [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.docx) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.docx) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
+* [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 {% comment %} 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 

@@ -24,10 +24,10 @@ exclude_from_nav: false
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.docx) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.docx) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
+* [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
 {% comment %} 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
-* [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)

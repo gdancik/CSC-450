@@ -60,13 +60,13 @@ function removeHideClass() {
 * <span class = 'xx'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Tuesday, 04/01/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/01/2025, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 04/08/2025 by 9:30 PM) 
-* <span class = 'due'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Thursday, 04/24/2025 by 9:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* <span class = 'ddue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Thursday, 04/24/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
+* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 {% comment %}
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
-* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 12/09/2025 by 11:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2025)
 * <span class = 'ddue'>[Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment)</span> 

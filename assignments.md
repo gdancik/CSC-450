@@ -4,7 +4,7 @@ title: Assignments
 titleDisplay: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: false 
+exclude_from_nav: true 
 ---
 
 <style>
@@ -51,7 +51,8 @@ function removeHideClass() {
 * Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 08/30/2025)
 {% endcomment %}
 
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 01/28/2025)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 09/02/2025)
+{% comment %}
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/04/2025)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/18/2025 by 9:30 AM)
@@ -66,7 +67,6 @@ function removeHideClass() {
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 05/15/2025 by 08:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2025)
 * <span class = 'ddue'>[Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment)</span> 

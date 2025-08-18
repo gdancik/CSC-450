@@ -9,6 +9,7 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
+{% comment %} 
 * [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 * [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx)
 * [Module 4: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
@@ -26,7 +27,6 @@ exclude_from_nav: false
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
 * [Module 10: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
-{% comment %} 
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)

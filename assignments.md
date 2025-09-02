@@ -52,8 +52,10 @@ function removeHideClass() {
 {% endcomment %}
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 09/02/2025)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* <span class = 'due'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment) </span>
+* [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/09/2025)
 {% comment %}
-* [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/04/2025)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/18/2025 by 9:30 AM)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/27/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -64,7 +66,6 @@ function removeHideClass() {
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 04/08/2025 by 9:30 PM) 
 * <span class = 'ddue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Thursday, 04/24/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 05/15/2025 by 08:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)

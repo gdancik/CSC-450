@@ -9,24 +9,22 @@ exclude_from_nav: false
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
-{% comment %} 
-* [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
-* [Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx)
-* [Module 4: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
+* [Module 3: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
+{% comment %} 
     * [CS examples]({{ site.baseurl }}/data/notes/CS-examples.pdf)
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf) 
-* [Module 5: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
+* [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 ([Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf)) 
-* [Module 6: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
-* [Module 7: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
+* [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
+* [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-* [Module 8: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+* [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.docx) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.docx) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
-* [Module 9: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
-* [Module 10: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
+* [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
+* [Module 9: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
@@ -44,5 +42,6 @@ exclude_from_nav: false
 {% endcomment %}
 
 {% comment %} 
+* [Module 3: Paradigms in Computer Science]({{ site.baseurl }}/data/notes/Paradigms.pdf)
 | [Example Annotated Bibliography]({{ site.baseurl }}/data/notes/AnnotatedBibliography.pdf)) 
 {% endcomment %}

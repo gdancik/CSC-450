@@ -52,8 +52,8 @@ function removeHideClass() {
 {% endcomment %}
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 09/02/2025)
+* <span class = 'due'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* <span class = 'due'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment) </span>
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/09/2025)
 {% comment %}
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)

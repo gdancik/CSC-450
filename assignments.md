@@ -52,13 +52,13 @@ function removeHideClass() {
 {% endcomment %}
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 09/02/2025)
-* <span class = 'due'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/09/2025)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/16/2025)
 {% comment %}
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/11/2025)
-* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/18/2025 by 9:30 AM)
-* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/27/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 09/25/2025 by 9:30 AM)
+* [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/06/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 03/10/2025, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'xx'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: Tuesday, 04/01/2025 by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))

@@ -18,9 +18,9 @@ exclude_from_nav: false
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
+* Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.pdf) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.pdf) 
 {% comment %} 
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
-* Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.docx) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.docx) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)

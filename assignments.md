@@ -55,8 +55,8 @@ function removeHideClass() {
 * <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/09/2025)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/16/2025)
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: <strike>Tuesday</strike>Thursday, 09/25/2025 by 9:30 AM)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/06/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/13/2025, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))

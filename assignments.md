@@ -65,11 +65,10 @@ function removeHideClass() {
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/17/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/01/2025 by noon) 
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 12/05/2025 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 12/09/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* <span class = 'due'>[Research Presentation]({{ site.baseurl }}/data/hw/ResearchPresentation.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span> 
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 05/15/2025 by 08:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2025)
 * <span class = 'ddue'>[Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment)</span> 

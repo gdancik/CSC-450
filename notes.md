@@ -21,7 +21,9 @@ exclude_from_nav: false
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.pdf) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.pdf) 
 * ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf) \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
-* [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx) 
+* [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
+* [Module 8: Example Poster]({{ site.baseurl }}/data/notes/AACR_dancik_2022.pptx)
+  * Note: a better template for this class is included with the assignment on [Blackboard](https://easternct.blackboard.com/ultra)  
 {% comment %} 
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)

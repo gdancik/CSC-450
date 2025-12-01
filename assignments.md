@@ -64,7 +64,7 @@ function removeHideClass() {
 * <span class = 'xdue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/17/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/01/2025 by noon) 
+* [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/02/2025 by noon) 
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 12/05/2025 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 12/09/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 

@@ -24,10 +24,10 @@ exclude_from_nav: false
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Example Poster]({{ site.baseurl }}/data/notes/AACR_dancik_2022.pptx)
   * Note: a better template for this class is included with the assignment on [Blackboard](https://easternct.blackboard.com/ultra)  
+* [Module 9: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 {% comment %} 
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
-* [Module 9: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)

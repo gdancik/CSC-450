@@ -51,7 +51,8 @@ function removeHideClass() {
 * Using the links on Blackboard, log on to [Piazza](https://piazza.com) and complete the poll (Due: 08/30/2025)
 {% endcomment %}
 
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Tuesday, 09/02/2025)
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/29/2026)
+{% comment %}
 * <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/09/2025)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/16/2025)
@@ -68,7 +69,7 @@ function removeHideClass() {
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 12/05/2025 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 12/09/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
+
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2025)
 * <span class = 'ddue'>[Abstract Assignment]({{ site.baseurl }}/data/hw/Abstracts.docx) (in-class assignment)</span> 

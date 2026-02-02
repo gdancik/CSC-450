@@ -53,9 +53,14 @@ function removeHideClass() {
 
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/29/2026)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/03/2026)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment, 02/03/2026) </span>
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/10/2026)
 {% comment %}
 * <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
-* [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 09/16/2025)
+{% endcomment %}
+{% comment %}
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: <strike>Tuesday</strike>Thursday, 09/25/2025 by 9:30 AM)
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Monday, 10/06/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -64,7 +69,6 @@ function removeHideClass() {
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 11/04/2025, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'xdue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/17/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/02/2025 by noon) 
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 12/05/2025 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)

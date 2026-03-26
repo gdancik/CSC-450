@@ -58,12 +58,11 @@ function removeHideClass() {
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/17/2026 by 9:30 AM)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/26/2026; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Thursday, 03/05/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/02/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (submit through [Blackboard](http://easternct.blackboard.com) unless you were checked off in class) </span>
-* <span class = "xdue">[Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 11/03/2025; submit through [Blackboard](http://easternct.blackboard.com))
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 11/04/2025, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* <span class = "due">[Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 11/03/2025; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'xdue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/17/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/02/2025 by noon) 

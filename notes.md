@@ -21,6 +21,7 @@ exclude_from_nav: false
 * ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf) \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.pdf) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.pdf)
+* [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * [Eastern Office of Career Services](https://www.easternct.edu/career/index.html) 
 {% comment %} 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
@@ -29,7 +30,6 @@ exclude_from_nav: false
 * [Module 9: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
-* [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
 * [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |

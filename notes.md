@@ -23,8 +23,8 @@ exclude_from_nav: false
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.pdf) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.pdf)
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf)
 * [Eastern Office of Career Services](https://www.easternct.edu/career/index.html) 
-{% comment %} 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
+{% comment %} 
 * [Module 8: Example Poster]({{ site.baseurl }}/data/notes/AACR_dancik_2022.pptx)
   * Note: a better template for this class is included with the assignment on [Blackboard](https://easternct.blackboard.com/ultra)  
 * [Module 9: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)

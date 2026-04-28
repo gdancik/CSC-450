@@ -62,13 +62,13 @@ function removeHideClass() {
 * <span class = "dxue">[Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 03/31/2026; submit through [Blackboard](http://easternct.blackboard.com))
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/02/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'dxue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 04/20/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 05/08/2026 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
+* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/12/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Résumé]({{ site.baseurl }}/data/hw/Resume.pdf) (Due: Tuesday, 12/02/2025 by noon) 
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 12/05/2025 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
-* [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 12/09/2025 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 * Find an article - see post on [Piazza](https://piazza.com) (Due: Monday, 09/16/2025)
 * [Reference Assignment]({{ site.baseurl }}/data/hw/ReferenceAssignment.docx) (in-class assignment, 03/19/2025)

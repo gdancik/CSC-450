@@ -25,13 +25,13 @@ exclude_from_nav: false
 * [Eastern Office of Career Services](https://www.easternct.edu/career/index.html) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
+* [Module 9: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% comment %} 
 * [Module 8: Example Poster]({{ site.baseurl }}/data/notes/AACR_dancik_2022.pptx)
   * Note: a better template for this class is included with the assignment on [Blackboard](https://easternct.blackboard.com/ultra)  
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 
 * [Module 8: Example Presentation]({{ site.baseurl }}/data/notes/Example_Presentation_SRCCM.pdf)
 * <span class = 'ddue'>[Understanding Abstracts]({{ site.baseurl }}/data/hw/Abstracts.docx)</span> 
-* [Module 10: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Abstract Exercise]({{ site.baseurl }}/data/notes/Abstracts2.docx) |
   [Reference Exercise]({{ site.baseurl }}/data/notes/ReferenceAssignment.docx)
 

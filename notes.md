@@ -8,6 +8,7 @@ exclude_from_nav: false
 ---
 
 * [Module 1: Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %} 
 * [Module 2: Research in Computer Science]({{ site.baseurl }}/data/notes/Research.pdf)
 * [Module 3: Data Collection and Experimental Design]({{ site.baseurl }}/data/notes/data-collection.pdf)
     * [Ice Cream example]({{ site.baseurl }}/data/notes/IceCream.pdf)
@@ -26,7 +27,6 @@ exclude_from_nav: false
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Module 9: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %} 
 * [Module 8: Example Poster]({{ site.baseurl }}/data/notes/AACR_dancik_2022.pptx)
   * Note: a better template for this class is included with the assignment on [Blackboard](https://easternct.blackboard.com/ultra)  
 * [Abstract Exercise]({{ site.baseurl }}/data/hw/Abstracts.docx) 

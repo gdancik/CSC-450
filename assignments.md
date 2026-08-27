@@ -4,7 +4,7 @@ title: Assignments
 titleDisplay: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: true
+exclude_from_nav: false
 ---
 
 <style>
@@ -47,8 +47,8 @@ function removeHideClass() {
 </script>
 
 
+* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 09/03/2026)
 {% comment %}
-* [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 01/29/2026)
 * [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/03/2026)
 * <span class = 'ddue'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment, 02/03/2026) </span>
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/10/2026)

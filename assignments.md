@@ -49,8 +49,9 @@ function removeHideClass() {
 
 * <span class = 'due'>[Searching the Literature]({{ site.baseurl }}/data/hw/LitSearch.docx) (in-class assignment, 09/01/2026) </span>
 * [Autobiography and Piazza Post ]({{ site.baseurl }}/data/hw/Autobiography.pdf) (Due: Thursday, 09/03/2026)
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Thursday, 09/10/2026)
 {% comment %}
-* [Article Discussion - Cellular automata model for evacuation with obstacles](http://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/03/2026)
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Tuesday, 02/10/2026)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Tuesday, 02/17/2026 by 9:30 AM)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: Thursday, 02/26/2026; submit through [Blackboard](http://easternct.blackboard.com))
@@ -60,7 +61,6 @@ function removeHideClass() {
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/02/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'dxue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 04/20/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 05/08/2026 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/12/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% endcomment %}

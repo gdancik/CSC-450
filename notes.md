@@ -15,8 +15,8 @@ exclude_from_nav: false
 * [Research vs. Review Articles]({{ site.baseurl }}/data/notes/ResearchVsReview.pdf) 
 * [Module 4: The Literature Review]({{ site.baseurl }}/data/notes/Lit.pdf)
 ([Example Lit Review]({{ site.baseurl }}/data/notes/Lit-Review-BCBET.pdf)) 
-{% comment %} 
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
+{% comment %} 
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf) \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)

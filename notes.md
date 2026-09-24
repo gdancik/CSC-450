@@ -18,10 +18,11 @@ exclude_from_nav: false
 * [Module 5: Example Lab Meeting]({{ site.baseurl }}/data/notes/LabMeeting-Dancik.pdf)
 * Job Application Review: [Jane Doe]({{ site.baseurl }}/data/notes/JaneDoe.pdf) \| [Alice Smith]({{ site.baseurl }}/data/notes/AliceSmith.pdf)
 * [Job Stuff]({{ site.baseurl }}/data/notes/jobstuff.pdf) \|  [Interviewing Tips]({{ site.baseurl }}/data/notes/Interviewing.pdf) \| [Eastern Office of Career Services](https://www.easternct.edu/career/index.html) 
-{% comment %} 
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
-* ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf) \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
+* ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf)
+{% comment %} 
+ \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)

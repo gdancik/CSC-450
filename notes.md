@@ -21,8 +21,8 @@ exclude_from_nav: false
 * [Module 6: The Research Proposal]({{ site.baseurl }}/data/notes/Proposal.pdf) 
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf)
-{% comment %} 
  \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
+{% comment %} 
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)

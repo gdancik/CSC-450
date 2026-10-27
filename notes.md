@@ -22,8 +22,8 @@ exclude_from_nav: false
 ([example]({{ site.baseurl }}/data/notes/Dancik-BCBET.pdf))
 * ETS Computer Science Major Field Test: [Overview](https://www.ets.org/pdfs/mft/comp-sci-test-description.pdf)
  \| [Practice](https://www.ets.org/pdfs/mft/comp-sci-sample-questions.pdf)
-{% comment %} 
 * [Module 7: The Research Paper]({{ site.baseurl }}/data/notes/article.pdf) 
+{% comment %} 
 * [Reference Examples]({{ site.baseurl }}/data/notes/ReferenceExamples.docx)
 * [Module 8: Ethical Issues in Computer Science]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Module 9: Wrap up]({{ site.baseurl }}/data/notes/WrapUp.pdf)

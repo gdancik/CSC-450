@@ -53,14 +53,14 @@ function removeHideClass() {
 * [Article Discussion - Experimental evidence of massive-scale emotional contagion through social networks](https://easternct.blackboard.com) (use Perusall link on Blackboard) (Due: Thursday, 09/17/2026)
 * [Article Critique]({{ site.baseurl }}/data/hw/Evaluation-Perusall.pdf) (Due: Thursday, <strike>09/23/2026</strike> 09/24/2026 by 9:30 AM)
 * [Literature Review]({{ site.baseurl }}/data/hw/LitReview.pdf) (Due: <strike>Monday, 10/05/2026</strike> Tuesday, 10/06/2026; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
-* <span class = 'due'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/12/2026, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 11/03/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
+* <span class = 'due'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
+* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/16/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * <span class = "dxue">[Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 03/31/2026; submit through [Blackboard](http://easternct.blackboard.com))
-* [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 04/02/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
-* <span class = 'dxue'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
-* [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 04/20/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 05/08/2026 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/12/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% endcomment %}

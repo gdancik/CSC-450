@@ -56,11 +56,11 @@ function removeHideClass() {
 * <span class = 'ddue'>[Lab Meeting #1]({{ site.baseurl }}/data/hw/LabMeeting1.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Research Proposal]({{ site.baseurl }}/data/hw/Proposal.pdf) (Due: Monday, 10/12/2026, by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com))
 <hr style = "margin-bottom:5px; margin-top:-10px; color:maroon;">
+* [Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 11/03/2026; submit through [Blackboard](http://easternct.blackboard.com))
 * [Outline]({{ site.baseurl }}/data/hw/Outline.docx) (Due: Tuesday, 11/03/2026, by 9:30 AM; submit through [Blackboard](http://easternct.blackboard.com))
 * <span class = 'due'>[Lab Meeting #2]({{ site.baseurl }}/data/hw/LabMeeting2.pdf) (Due dates will vary; submit through [Blackboard](http://easternct.blackboard.com))</span>
 * [Rough Draft]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Monday, 11/16/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
-* <span class = "dxue">[Github Assignment]({{ site.baseurl }}/data/hw/Github.pdf) (Due: 03/31/2026; submit through [Blackboard](http://easternct.blackboard.com))
 * [Poster Presentation]({{ site.baseurl }}/data/hw/ResearchPresentationPoster.pdf) (Due: Friday, 05/08/2026 by 3:00 PM through [Blackboard](http://easternct.blackboard.com) and the [Copy Center](https://www.easternct.edu/communications-marketing/services/copy-center.html); see assignment for details)
 * [Final Paper]({{ site.baseurl }}/data/hw/ResearchPaper.pdf) (Due: Tuesday, 05/12/2026 by 8:00 AM; submit through [Blackboard](http://easternct.blackboard.com)) 
 {% endcomment %}
